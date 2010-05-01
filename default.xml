@@ -4,7 +4,6 @@
           fetch="ssh://boxstream@development.streambox.com/var/www/html/proj/" />
   <default revision="master"
            remote="dev" />
-  <project name="docbook-practice" />
   <project name="bugzilla-setup"
            path="bugzilla-setup" />
   <project name="docbook-practice"
