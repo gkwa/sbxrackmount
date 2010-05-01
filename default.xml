@@ -32,8 +32,10 @@
            path="libguide" />
   <project name="linux"
            path="linux" />
+<!--
   <project name="lstest"
            path="lstest" />
+-->
   <project name="memorycheck"
            path="memorycheck" />
   <project name="nfs"
@@ -76,8 +78,8 @@
            path="sbversioncheck" />
   <project name="setupproj.sh"
            path="setupproj.sh" />
-  <project name="sfs"
-           path="sfs" />
+<!--  <project name="sfs"
+           path="sfs" /> -->
   <project name="siwstats"
            path="siwstats" />
   <project name="sqlite-practice"
