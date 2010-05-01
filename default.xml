@@ -9,6 +9,9 @@
   <project name="docbook-practice"
            path="docbook-practice" />
 
+
+
+
   <project name="encoder-hd-osx"
            path="encoder-hd-osx" />
   <project name="encoder-sd-osx"
@@ -44,8 +47,20 @@
            path="qt-practice" />
   <project name="qtcodec-osx-hd"
            path="qtcodec-osx-hd" />
+
+<!--
+
+[demo@demos-imac:/tmp]$ git clone ssh://boxstream@development.streambox.com/var/www/html/proj/qtcodec-osx-sd.git
+git clone ssh://boxstream@development.streambox.com/var/www/html/proj/qtcodec-osx-sd.git
+Initialized empty Git repository in /private/tmp/qtcodec-osx-sd/.git/
+warning: You appear to have cloned an empty repository.
+[demo@demos-imac:/tmp]$ 
+
   <project name="qtcodec-osx-sd"
            path="qtcodec-osx-sd" />
+-->
+
+
   <project name="qtcodec-win-hd"
            path="qtcodec-win-hd" />
   <project name="qtcodec-win-sd"
