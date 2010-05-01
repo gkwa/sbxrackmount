@@ -76,8 +76,6 @@
            path="sbtunnel" />
   <project name="sbversioncheck"
            path="sbversioncheck" />
-  <project name="setupproj.sh"
-           path="setupproj.sh" />
 <!--  <project name="sfs"
            path="sfs" /> -->
   <project name="siwstats"
