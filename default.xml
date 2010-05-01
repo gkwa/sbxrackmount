@@ -95,9 +95,9 @@ warning: You appear to have cloned an empty repository.
   <project name="sqlite-practice"
            path="sqlite-practice" />
   <project name="ssh-setup"
-           path="ssh-setup" />
+           path="personal/ssh-setup" />
   <project name="sslcerts"
-           path="sslcerts" />
+           path="personal/sslcerts" />
   <project name="subversion-bkp"
            path="subversion-bkp" />
   <project name="tools"
@@ -105,7 +105,7 @@ warning: You appear to have cloned an empty repository.
   <project name="usb-bootable"
            path="usb-bootable" />
   <project name="xenserver"
-           path="xenserver" />
+           path="personal/xenserver" />
   <project name="xerox_email"
            path="xerox_email" />
 
