@@ -8,8 +8,13 @@
            path="bugzilla-setup" />
   <project name="docbook-practice"
            path="docbook-practice" />
+
+<!--
+
   <project name="emacs"
            path="emacs" />
+-->
+
   <project name="encoder-hd-osx"
            path="encoder-hd-osx" />
   <project name="encoder-sd-osx"
@@ -46,8 +51,11 @@
            path="osx-packagemaker" />
   <project name="poweredge-bios"
            path="poweredge-bios" />
+<!--
   <project name="prod-ls"
            path="prod-ls" />
+-->
+
   <project name="qt-practice"
            path="qt-practice" />
   <project name="qtcodec-osx-hd"
@@ -76,8 +84,10 @@
            path="sbtunnel" />
   <project name="sbversioncheck"
            path="sbversioncheck" />
-<!--  <project name="sfs"
-           path="sfs" /> -->
+<!--
+  <project name="sfs"
+           path="sfs" />
+-->
   <project name="siwstats"
            path="siwstats" />
   <project name="sqlite-practice"
