@@ -63,8 +63,15 @@ warning: You appear to have cloned an empty repository.
 
   <project name="qtcodec-win-hd"
            path="qtcodec-win-hd" />
+
+<!--
+
   <project name="qtcodec-win-sd"
            path="qtcodec-win-sd" />
+-->
+
+
+
   <project name="raid-activation"
            path="raid-activation" />
   <project name="rdp-connect"
