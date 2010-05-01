@@ -3,7 +3,7 @@
   <remote name="dev"
           fetch="ssh://boxstream@development.streambox.com/var/www/html/proj/" />
   <default revision="master"
-           remote="master" />
+           remote="dev" />
   <project name="bugzilla-setup"
            path="bugzilla-setup" />
   <project name="docbook-practice"
