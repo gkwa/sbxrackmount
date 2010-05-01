@@ -3,17 +3,11 @@
   <remote name="dev"
           fetch="ssh://boxstream@development.streambox.com/var/www/html/proj/" />
   <default revision="master"
-           remote="dev" />
+           remote="master" />
   <project name="bugzilla-setup"
            path="bugzilla-setup" />
   <project name="docbook-practice"
            path="docbook-practice" />
-
-<!--
-
-  <project name="emacs"
-           path="emacs" />
--->
 
   <project name="encoder-hd-osx"
            path="encoder-hd-osx" />
@@ -37,24 +31,14 @@
            path="libguide" />
   <project name="linux"
            path="linux" />
-<!--
-  <project name="lstest"
-           path="lstest" />
--->
   <project name="memorycheck"
            path="memorycheck" />
   <project name="nfs"
            path="nfs" />
-  <project name="nsis-streambox"
-           path="nsis-streambox" />
   <project name="osx-packagemaker"
            path="osx-packagemaker" />
   <project name="poweredge-bios"
            path="poweredge-bios" />
-<!--
-  <project name="prod-ls"
-           path="prod-ls" />
--->
 
   <project name="qt-practice"
            path="qt-practice" />
@@ -84,10 +68,6 @@
            path="sbtunnel" />
   <project name="sbversioncheck"
            path="sbversioncheck" />
-<!--
-  <project name="sfs"
-           path="sfs" />
--->
   <project name="siwstats"
            path="siwstats" />
   <project name="sqlite-practice"
@@ -106,4 +86,38 @@
            path="xenserver" />
   <project name="xerox_email"
            path="xerox_email" />
+
+
+<!--
+  <project name="sfs"
+           path="sfs" />
+-->
+
+
+<!--
+
+  <project name="emacs"
+           path="emacs" />
+-->
+
+
+<!--
+  <project name="prod-ls"
+           path="prod-ls" />
+-->
+
+<!--
+  <project name="lstest"
+           path="lstest" />
+-->
+
+
+
+<!--
+  <project name="nsis-streambox"
+           path="nsis-streambox" />
+-->
+
+
+
 </manifest>
