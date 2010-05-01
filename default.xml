@@ -92,10 +92,8 @@ warning: You appear to have cloned an empty repository.
            path="personal/xenserver" />
   <project name="xerox_email"
            path="xerox_email" />
-  <!--
   <project name="sfs"
            path="sfs" />
--->
   <!--
 
   <project name="emacs"
