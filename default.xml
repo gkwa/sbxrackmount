@@ -2,7 +2,7 @@
 <manifest>
   <remote name="dev"
           fetch="ssh://boxstream@68.178.7.86:5979/var/www/html/proj/"
-          review="69.90.235.76" />
+          review="http://69.90.235.76:8080" />
   <default revision="master"
            remote="dev" />
   <project name="docbook-practice"
