@@ -7,9 +7,10 @@
            remote="dev" />
   <project name="docbook-practice"
            path="docbook-practice" />
-  <!--
+
   <project name="bugzilla-setup"
            path="bugzilla-setup" />
+  <!--
   <project name="encoder-hd-osx"
            path="encoder-hd-osx" />
   <project name="encoder-sd-osx"
