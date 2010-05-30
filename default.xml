@@ -9,6 +9,11 @@
            path="docbook-practice" />
   <project name="bugzilla-setup"
            path="bugzilla-setup" />
+  <project name="ghost-sync"
+           path="ghost-sync" />
+  <project name="poweredge-bios"
+           path="poweredge-bios" />
+  <!--
   <project name="encoder-hd-osx"
            path="encoder-hd-osx" />
   <project name="encoder-sd-osx"
@@ -21,11 +26,8 @@
            path="ftpserver" />
   <project name="ghost-image-check"
            path="ghost-image-check" />
-  <project name="ghost-sync"
-           path="ghost-sync" />
   <project name="git-practice"
            path="git-practice" />
-  <!--
   <project name="jlcskip"
            path="jlcskip" />
   <project name="libguide"
@@ -38,8 +40,6 @@
            path="nfs" />
   <project name="osx-packagemaker"
            path="osx-packagemaker" />
-  <project name="poweredge-bios"
-           path="poweredge-bios" />
   <project name="qt-practice"
            path="qt-practice" />
   <project name="qtcodec-osx-hd"
