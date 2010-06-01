@@ -3,7 +3,7 @@
   <remote name="dev"
           fetch="ssh://boxstream@68.178.7.86:5979/var/www/html/proj/"
           review="http://69.90.235.76:8080" />
-  <default revision="master"
+  <default revision="test"
            remote="dev" />
   <project name="docbook-practice"
            path="docbook-practice" />
