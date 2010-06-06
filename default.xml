@@ -57,7 +57,7 @@
 <project name="subversion-bkp" path="subversion-bkp" />
 <project name="tools" path="tools" />
 <project name="transcoder-osx" path="transcoder-osx" />
-<project name="transcoder-win" path="transcoder-win" />
+<!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <project name="usb-bootable" path="usb-bootable" />
 <project name="xenserver" path="xenserver" />
 <project name="xerox_email" path="xerox_email" />
