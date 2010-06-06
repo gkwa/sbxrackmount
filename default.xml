@@ -22,7 +22,7 @@
 <project name="libguide" path="libguide" />
 <project name="linux" path="linux" />
 <project name="liveencoder-ntsc-osx" path="liveencoder-ntsc-osx" />
-<project name="liveencoder-pal-osx" path="liveencoder-pal-osx" />
+<!-- <project name="liveencoder-pal-osx" path="liveencoder-pal-osx" /> -->
 <project name="lstest" path="lstest" />
 <project name="manifest" path="manifest" />
 <project name="mediaplayer-hd-osx" path="mediaplayer-hd-osx" />
