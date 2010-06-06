@@ -36,7 +36,7 @@
 <project name="poweredge-bios" path="poweredge-bios" />
 <project name="prod-ls" path="prod-ls" />
 <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" />
-<project name="qtcodec-osx-sd" path="qtcodec-osx-sd" />
+<!-- <project name="qtcodec-osx-sd" path="qtcodec-osx-sd" /> -->
 <project name="qtcodec-win-hd" path="qtcodec-win-hd" />
 <project name="qtcodec-win-sd" path="qtcodec-win-sd" />
 <project name="qt-practice" path="qt-practice" />
