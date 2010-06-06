@@ -38,7 +38,7 @@
 <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" />
 <!-- <project name="qtcodec-osx-sd" path="qtcodec-osx-sd" /> -->
 <project name="qtcodec-win-hd" path="qtcodec-win-hd" />
-<project name="qtcodec-win-sd" path="qtcodec-win-sd" />
+<!-- <project name="qtcodec-win-sd" path="qtcodec-win-sd" /> -->
 <project name="qt-practice" path="qt-practice" />
 <project name="raid-activation" path="raid-activation" />
 <project name="rdp-connect" path="rdp-connect" />
