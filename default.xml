@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <remote name="dev"
+  <remote name="d"
           fetch="ssh://dev/var/www/html/proj/"
           review="http://gerrit:8080" />
 <!--  <default revision="master"
