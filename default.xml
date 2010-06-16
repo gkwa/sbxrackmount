@@ -3,8 +3,7 @@
   <remote name="d"
           fetch="ssh://dev/var/www/html/proj/"
           review="http://gerrit:8080" />
-  <default revision="master"
-           remote="d" /> 
+  <default /> 
 <project name="bugzilla-setup" path="bugzilla-setup" />
 <project name="docbook-practice" path="docbook-practice" />
 </manifest>
