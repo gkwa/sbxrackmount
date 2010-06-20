@@ -5,15 +5,19 @@
           review="http://gerrit:8080" />
 <default revision="master"
            remote="dev" /> 
-<project name="bugzilla-setup" path="bugzilla-setup" />
 <project name="docbook-practice" path="docbook-practice" />
+
+<project name="bugzilla-setup" path="bugzilla-setup" />
+<project name="ftpserver" path="ftpserver" />
+
+<!--
 <project name="emacs" path="emacs" />
 <project name="encoder-hd-osx" path="encoder-hd-osx" />
 <project name="encoder-sd-osx" path="encoder-sd-osx" />
 <project name="encoder-settings" path="encoder-settings" />
 <project name="fcp-compressor-presets" path="fcp-compressor-presets" />
 <project name="frankenstein" path="frankenstein" />
-<project name="ftpserver" path="ftpserver" />
+
 <project name="gerrit-setup" path="gerrit-setup" />
 <project name="ghost-image-check" path="ghost-image-check" />
 <project name="ghost-sync" path="ghost-sync" />
@@ -61,4 +65,6 @@
 <project name="usb-bootable" path="usb-bootable" />
 <project name="xenserver" path="xenserver" />
 <project name="xerox_email" path="xerox_email" />
+-->
+
 </manifest>
