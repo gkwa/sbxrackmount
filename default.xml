@@ -21,7 +21,6 @@
 <project name="encoder-settings" path="encoder-settings" />
 <project name="ess" path="ess" />
 <project name="fcp-compressor-presets" path="fcp-compressor-presets" />
-<project name="fcp_compressor_presets" path="fcp_compressor_presets" />
 <project name="frankenstein" path="frankenstein" />
 <project name="ftpserver" path="ftpserver" />
 <project name="gerrit-setup" path="gerrit-setup" />
