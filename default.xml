@@ -12,7 +12,6 @@
 <!-- <project name="qtcodec-win-sd" path="qtcodec-win-sd" /> -->
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 
-<project name="ds" path="ds" />
 <project name="subversion-setup" path="subversion-setup" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
 <project name="docbook-practice" path="docbook-practice" />
