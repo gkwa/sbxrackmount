@@ -14,6 +14,7 @@
 
 <project name="subversion-setup" path="subversion-setup" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
+<project name="xquery-practice" path="xquery-practice" />
 <project name="docbook-practice" path="docbook-practice" />
 <project name="ds" path="ds" />
 <project name="maven-practice" path="maven-practice" />
