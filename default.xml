@@ -13,6 +13,7 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 
 <project name="subversion-setup" path="subversion-setup" />
+<project name="keychain" path="keychain" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
 <project name="xquery-practice" path="xquery-practice" />
 <project name="docbook-practice" path="docbook-practice" />
