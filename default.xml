@@ -11,6 +11,7 @@
 <project name="qtcodec-osx-sd" path="qtcodec-osx-sd" /> 
 <!-- <project name="qtcodec-win-sd" path="qtcodec-win-sd" /> -->
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
+<!-- <project name="frankenstein" path="frankenstein" /> -->
 
 <project name="bugzilla-setup" path="bugzilla-setup" />
 <project name="docbook-practice" path="docbook-practice" />
@@ -22,7 +23,6 @@
 <project name="encoder-settings" path="encoder-settings" />
 <project name="ess" path="ess" />
 <project name="fcp-compressor-presets" path="fcp-compressor-presets" />
-<project name="frankenstein" path="frankenstein" />
 <project name="ftpserver" path="ftpserver" />
 <project name="gerrit-setup" path="gerrit-setup" />
 <project name="ghost-image-check" path="ghost-image-check" />
