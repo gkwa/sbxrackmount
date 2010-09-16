@@ -13,6 +13,7 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="sms" path="sms" />
 <project name="subversion-setup" path="subversion-setup" />
 <project name="keychain" path="keychain" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
