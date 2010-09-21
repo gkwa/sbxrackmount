@@ -8,11 +8,11 @@
 
 <!-- <project name="liveencoder-pal-osx" path="liveencoder-pal-osx" /> -->
 <!-- <project name="mediaplayer-hd-win64" path="mediaplayer-hd-win64" /> -->
-<!-- <project name="qtcodec-osx-sd" path="qtcodec-osx-sd" /> -->
 <!-- <project name="qtcodec-win-sd" path="qtcodec-win-sd" /> -->
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="qt-encoder-sd" path="qt-encoder-sd" />
 <project name="sms" path="sms" />
 <project name="subversion-setup" path="subversion-setup" />
 <project name="keychain" path="keychain" />
