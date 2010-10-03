@@ -12,6 +12,7 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="emms" path="emms" />
 <project name="qt-encoder-hd" path="qt-encoder-hd" />
 <project name="qt-encoder-sd" path="qt-encoder-sd" />
 <project name="sms" path="sms" />
