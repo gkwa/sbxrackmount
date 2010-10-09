@@ -12,6 +12,7 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="osascript-practice" path="osascript-practice" />
 <project name="ifbserver" path="ifbserver" />
 <project name="emms" path="emms" />
 <project name="qt-encoder-hd" path="qt-encoder-hd" />
