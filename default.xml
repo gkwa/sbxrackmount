@@ -12,6 +12,8 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="qt-decoder-sd-osx" path="qt-decoder-sd-osx" />
+<project name="qt-decoder-hd-osx" path="qt-decoder-hd-osx" />
 <project name="osascript-practice" path="osascript-practice" />
 <project name="ifbserver" path="ifbserver" />
 <project name="emms" path="emms" />
