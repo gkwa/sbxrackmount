@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
   <remote name="dev"
-          fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj/"
+          fetch="ssh://dev/var/www/html/proj/"
           review="http://gerrit:8080" />
 <default revision="master"
            remote="dev" /> 
