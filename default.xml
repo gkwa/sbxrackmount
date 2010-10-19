@@ -12,6 +12,8 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+
+
 <project name="qt-encoder-act-hd-osx" path="qt-encoder-act-hd-osx" />
 <project name="qt-encoder-act-sd-osx" path="qt-encoder-act-sd-osx" />
 <project name="qt-decoder-sd-osx" path="qt-decoder-sd-osx" />
@@ -59,7 +61,7 @@
 <project name="poweredge-bios" path="poweredge-bios" />
 <project name="prod-ls" path="prod-ls" />
 <project name="qt-practice" path="qt-practice" />
-<project name="qtcodec-osx-hd" path="qtcodec-osx-hd" />
+<!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
 <project name="qtcodec-win-hd" path="qtcodec-win-hd" />
 <project name="qtdecoder-osx" path="qtdecoder-osx" />
 <project name="qttranscoder-osx" path="qttranscoder-osx" />
