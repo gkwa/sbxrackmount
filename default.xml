@@ -13,7 +13,7 @@
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
 
-
+<project name="qt-decoder-hd-osx" path="qt-decoder-hd-osx" />
 <project name="abn" path="abn" />
 <project name="qt-encoder-act-hd-osx" path="qt-encoder-act-hd-osx" />
 <project name="qt-encoder-act-sd-osx" path="qt-encoder-act-sd-osx" />
