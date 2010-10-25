@@ -12,6 +12,7 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="qttools" path="qttools" />
 <project name="videozilla" path="videozilla" />
 <project name="qt-decoder-hd-osx" path="qt-decoder-hd-osx" />
 <project name="abn" path="abn" />
