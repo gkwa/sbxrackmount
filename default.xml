@@ -59,6 +59,7 @@
 <project name="memorycheck" path="memorycheck" />
 <project name="nfs" path="nfs" />
 <project name="nsis-streambox" path="nsis-streambox" />
+<project name="nsis-streambox2" path="nsis-streambox2" />
 <project name="osx-packagemaker" path="osx-packagemaker" />
 <project name="poweredge-bios" path="poweredge-bios" />
 <project name="prod-ls" path="prod-ls" />
