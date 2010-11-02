@@ -72,7 +72,7 @@
 <project name="read-sb-changelog" path="read-sb-changelog" />
 <project name="run-bat-before-login" path="run-bat-before-login" />
 <project name="sas" path="sas" />
-<project name="saslic" path="saslic" />
+<!-- <project name="saslic" path="saslic" /> -->
 <project name="sb-ports" path="sb-ports" />
 <project name="sbaudiocheck" path="sbaudiocheck" />
 <project name="sbtunnel" path="sbtunnel" />
