@@ -12,6 +12,7 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+<project name="droplet" path="droplet" />
 <project name="perl-recdescent-practice" path="perl-recdescent-practice" />
 <project name="junction-test" path="junction-test" />
 <project name="qttools" path="qttools" />
