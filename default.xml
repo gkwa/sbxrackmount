@@ -12,6 +12,29 @@
 <!-- <project name="transcoder-win" path="transcoder-win" /> -->
 <!-- <project name="frankenstein" path="frankenstein" /> -->
 
+
+<project name="qt-encoder-sd-win" path="qt-encoder-sd-win" />
+<project name="qt-encoder-hd-win" path="qt-encoder-hd-win" />
+<project name="encoder-hd-win" path="encoder-hd-win" />
+<project name="decoder-sd-win" path="decoder-sd-win" />
+<project name="decoder-hd-win" path="decoder-hd-win" />
+<project name="mediaplayer-sd-win32" path="mediaplayer-sd-win32" />
+<project name="mediaplayer-hd-win32" path="mediaplayer-hd-win32" />
+<project name="bs" path="bs" />
+<project name="ds" path="ds" />
+<project name="sfc-win" path="sfc-win" />
+<project name="sms" path="sms" />
+<project name="encoder-5300-win" path="encoder-5300-win" />
+<project name="encoder-5360-win" path="encoder-5360-win" />
+<project name="encoder-7500-win" path="encoder-7500-win" />
+<project name="encoder-2300-win" path="encoder-2300-win" />
+<project name="qt-decoder-hd-win" path="qt-decoder-hd-win" />
+<project name="qt-decoder-sd-win" path="qt-decoder-sd-win" />
+<project name="portable-encoder-win" path="portable-encoder-win" />
+<project name="liveencoder-win" path="liveencoder-win" />
+<project name="ifb-client-win" path="ifb-client-win" />
+<project name="ftt-win" path="ftt-win" />
+
 <project name="nsis-practice" path="nsis-practice" />
 <project name="droplet" path="droplet" />
 <project name="perl-recdescent-practice" path="perl-recdescent-practice" />
