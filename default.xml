@@ -59,7 +59,6 @@
 <project name="mediaplayer-hd-win32" path="mediaplayer-hd-win32" />
 <project name="mediaplayer-sd-osx" path="mediaplayer-sd-osx" />
 <project name="mediaplayer-sd-win32" path="mediaplayer-sd-win32" />
-<project name="mediaplayer-sd-win32" path="mediaplayer-sd-win32" />
 <project name="memorycheck" path="memorycheck" />
 <project name="mp-hd-win32" path="mp-hd-win32" />
 <project name="nfs" path="nfs" />
