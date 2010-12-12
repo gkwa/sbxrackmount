@@ -15,6 +15,7 @@
 <!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
 <!-- <project name="saslic" path="saslic" /> -->
 
+<project name="bootstrap-cygwin" path="bootstrap-cygwin" />
 <project name="abn" path="abn" />
 <project name="bs" path="bs" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
