@@ -15,6 +15,7 @@
 <!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
 <!-- <project name="saslic" path="saslic" /> -->
 
+<project name="osx-webui" path="osx-webui" />
 <project name="win7" path="win7" />
 <project name="nsis-baseline" path="nsis-baseline" />
 <project name="abn" path="abn" />
