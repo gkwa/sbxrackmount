@@ -15,6 +15,7 @@
 <!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
 <!-- <project name="saslic" path="saslic" /> -->
 
+<project name="libguide-win" path="libguide-win" />
 <project name="transcoder-win" path="transcoder-win" />
 <project name="encoder-portable-sd-win" path="encoder-portable-sd-win" />
 <project name="encoder-portable-hd-win" path="encoder-portable-hd-win" />
