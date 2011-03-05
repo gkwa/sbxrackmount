@@ -15,6 +15,9 @@
 <!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
 <!-- <project name="saslic" path="saslic" /> -->
 
+<project name="qttools-sd-osx" path="qttools-sd-osx" />
+<project name="qttools-hd-osx" path="qttools-hd-osx" />
+
 <project name="encoder-sd-lh32" path="encoder-sd-lh32" />
 <project name="decoder-sd-lh32" path="decoder-sd-lh32" />
 <project name="enc-dec-web" path="enc-dec-web" />
