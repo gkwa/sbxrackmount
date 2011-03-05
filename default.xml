@@ -15,6 +15,7 @@
 <!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
 <!-- <project name="saslic" path="saslic" /> -->
 
+<project name="decoder-sd-lh32" path="decoder-sd-lh32" />
 <project name="enc-dec-web" path="enc-dec-web" />
 <project name="quicktime" path="quicktime" />
 <project name="colorbarsbitmaps" path="colorbarsbitmaps" />
