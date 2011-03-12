@@ -16,6 +16,7 @@
 <!-- <project name="saslic" path="saslic" /> -->
 
 
+<project name="cygwin-setup" path="cygwin-setup" />
 <project name="iniparser" path="iniparser" />
 <project name="xmlstarlet-practice" path="xmlstarlet-practice" />
 
