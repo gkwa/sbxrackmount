@@ -25,7 +25,6 @@
 
 <project name="encoder-sd-lh32" path="encoder-sd-lh32" />
 <project name="decoder-sd-lh32" path="decoder-sd-lh32" />
-<project name="enc-dec-web" path="enc-dec-web" />
 <project name="quicktime" path="quicktime" />
 <project name="colorbarsbitmaps" path="colorbarsbitmaps" />
 <project name="check2000" path="check2000" />
