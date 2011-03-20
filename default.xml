@@ -6,16 +6,6 @@
 <default revision="master"
            remote="dev" /> 
 
-<!-- <project name="liveencoder-pal-osx" path="liveencoder-pal-osx" /> -->
-<!-- <project name="mediaplayer-hd-win64" path="mediaplayer-hd-win64" /> -->
-<!-- <project name="qtcodec-win-sd" path="qtcodec-win-sd" /> -->
-<!-- <project name="transcoder-win" path="transcoder-win" /> -->
-<!-- <project name="frankenstein" path="frankenstein" /> -->
-<!-- <project name="emms" path="emms" /> -->
-<!-- <project name="qtcodec-osx-hd" path="qtcodec-osx-hd" /> -->
-<!-- <project name="saslic" path="saslic" /> -->
-
-
 <project name="cygwin-setup" path="cygwin-setup" />
 <project name="iniparser" path="iniparser" />
 <project name="xmlstarlet-practice" path="xmlstarlet-practice" />
@@ -36,8 +26,7 @@
 <project name="abn" path="abn" />
 <project name="bs" path="bs" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
-<project name="decoder-hd-win" path="decoder-hd-win" />
-<project name="decoder-win" path="decoder-sd-win" />
+<project name="decoder-win" path="decoder-win" />
 <project name="docbook-practice" path="docbook-practice" />
 <project name="droplet" path="droplet" />
 <project name="ds" path="ds" />
