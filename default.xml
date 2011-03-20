@@ -19,10 +19,6 @@
 <project name="cygwin-setup" path="cygwin-setup" />
 <project name="iniparser" path="iniparser" />
 <project name="xmlstarlet-practice" path="xmlstarlet-practice" />
-
-<project name="qttools-sd-osx" path="qttools-sd-osx" />
-<project name="qttools-hd-osx" path="qttools-hd-osx" />
-
 <project name="encoder-sd-lh32" path="encoder-sd-lh32" />
 <project name="decoder-sd-lh32" path="decoder-sd-lh32" />
 <project name="quicktime" path="quicktime" />
@@ -41,7 +37,7 @@
 <project name="bs" path="bs" />
 <project name="bugzilla-setup" path="bugzilla-setup" />
 <project name="decoder-hd-win" path="decoder-hd-win" />
-<project name="decoder-sd-win" path="decoder-sd-win" />
+<project name="decoder-win" path="decoder-sd-win" />
 <project name="docbook-practice" path="docbook-practice" />
 <project name="droplet" path="droplet" />
 <project name="ds" path="ds" />
