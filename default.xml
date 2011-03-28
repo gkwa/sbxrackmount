@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="liveencoder-osx" path="liveencoder-osx" />
 <project name="autoit-practice" path="autoit-practice" />
 <project name="cygwin-setup" path="cygwin-setup" />
 <project name="iniparser" path="iniparser" />
