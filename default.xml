@@ -6,6 +6,8 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="xena-test-tools" path="xena-test-tools" />
+<project name="xenserver-helper-scripts" path="xenserver-helper-scripts" />
 <project name="autoit-practice" path="autoit-practice" />
 <project name="cygwin-setup" path="cygwin-setup" />
 <project name="iniparser" path="iniparser" />
