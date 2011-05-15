@@ -35,7 +35,6 @@
 <project name="ds" path="ds" />
 <project name="emacs" path="emacs" />
 <project name="encoder-hd-osx" path="encoder-hd-osx" />
-<project name="encoder-hd-win" path="encoder-hd-win" />
 <project name="encoder-sd-osx" path="encoder-sd-osx" />
 <project name="encoder-settings" path="encoder-settings" />
 <project name="ess" path="ess" />
