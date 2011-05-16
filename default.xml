@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="bginfo" path="bginfo" />
 <project name="qt-decoder-hd-win" path="qt-decoder-hd-win" />
 <project name="qt-decoder-sd-win" path="qt-decoder-sd-win" />
 <project name="xena-test-tools" path="xena-test-tools" />
