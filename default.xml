@@ -6,6 +6,8 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="virutalbox-automation" path="virutalbox-automation" />
+<project name="read-qt-tools" path="read-qt-tools" />
 <project name="cmake-practice" path="cmake-practice" />
 <project name="quictime-automation" path="quictime-automation" />
 <project name="bginfo" path="bginfo" />
