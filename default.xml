@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="sfs-lite" path="sfs-lite" />
 <project name="netbios-disable" path="netbios-disable" />
 <project name="test-trash" path="test-trash" />
 <project name="virtualbox-automation" path="virtualbox-automation" />
