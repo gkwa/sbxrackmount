@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="wix-practice" path="wix-practice" />
 <project name="mono-practice" path="mono-practice" />
 <project name="production-find-ls" path="production-find-ls" />
 <project name="plistParsing" path="plistParsing" />
