@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="scons-practice" path="scons-practice" />
 <project name="nicready" path="nicready" />
 <project name="wix-practice" path="wix-practice" />
 <project name="mono-practice" path="mono-practice" />
