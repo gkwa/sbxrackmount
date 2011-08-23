@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="rsync-practice" path="rsync-practice" />
 <project name="aja-driver-install" path="aja-driver-install" />
 <project name="scons-practice" path="scons-practice" />
 <project name="nicready" path="nicready" />
