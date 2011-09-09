@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="sleep_after_reboot" path="sleep_after_reboot" />
 <project name="rsync-practice" path="rsync-practice" />
 <project name="aja-driver-install" path="aja-driver-install" />
 <project name="scons-practice" path="scons-practice" />
