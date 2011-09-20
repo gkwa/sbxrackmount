@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="9100-update" path="9100-update" />
 <project name="bug-maintenance" path="bug-maintenance" />
 <project name="sleep_after_reboot" path="sleep_after_reboot" />
 <project name="rsync-practice" path="rsync-practice" />
