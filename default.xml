@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="ds_withstorage" path="ds_withstorage" />
 <project name="virtualbox-practice" path="virtualbox-practice" />
 <project name="git" path="git" />
 <project name="9100-update" path="9100-update" />
