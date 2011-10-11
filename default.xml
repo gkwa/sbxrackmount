@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="apache-console-app" path="apache-console-app" />
 <project name="ziptest" path="ziptest" />
 <project name="ds_withstorage" path="ds_withstorage" />
 <project name="virtualbox-practice" path="virtualbox-practice" />
