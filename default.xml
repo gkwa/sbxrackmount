@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="machine-check" path="machine-check" />
 <project name="smp" path="smp" />
 <project name="apache-console-app" path="apache-console-app" />
 <project name="ziptest" path="ziptest" />
