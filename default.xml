@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="php-installer" path="php-installer" />
 <project name="makefile-practice" path="makefile-practice" />
 <project name="tiny_perl_installer" path="tiny_perl_installer" />
 <project name="machine-check" path="machine-check" />
