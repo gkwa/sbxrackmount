@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="map_googledocs_to_bz" path="map_googledocs_to_bz" />
 <project name="gnuwin32" path="gnuwin32" />
 <project name="php-installer" path="php-installer" />
 <project name="makefile-practice" path="makefile-practice" />
