@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="lstmptrash" path="lstmptrash" />
 <project name="qt_plus_qt_decoder_install_test" path="qt_plus_qt_decoder_install_test" />
 <project name="rms" path="rms" />
 <project name="map_googledocs_to_bz" path="map_googledocs_to_bz" />
