@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="ls_auto_activate" path="ls_auto_activate" />
 <project name="dummynet" path="dummynet" />
 <project name="git-check-projects" path="git-check-projects" />
 <project name="lstmptrash" path="lstmptrash" />
