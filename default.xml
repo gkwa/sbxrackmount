@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="streambox_service_starter" path="streambox_service_starter" />
 <project name="stress_test_live" path="stress_test_live" />
 <project name="live_db_installer" path="live_db_installer" />
 <project name="netplwiz_automation" path="netplwiz_automation" />
