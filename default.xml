@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="microsoft_redistributables" path="microsoft_redistributables" />
 <project name="get_guid_for_search" path="get_guid_for_search" />
 <project name="streambox_service_starter" path="streambox_service_starter" />
 <project name="stress_test_live" path="stress_test_live" />
