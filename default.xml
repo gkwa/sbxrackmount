@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="usb_audio_xpe" path="usb_audio_xpe" />
 <project name="largebits" path="largebits" />
 <project name="add_reboot_icon_to_quicklaunch_bar" path="add_reboot_icon_to_quicklaunch_bar" />
 <project name="npackd-practice" path="npackd-practice" />
