@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="cmd_convert_short_path_to_long" path="cmd_convert_short_path_to_long" />
 <project name="sfsvideo" path="sfsvideo" />
 <project name="sms-uninstall" path="sms-uninstall" />
 <project name="usb_audio_xpe" path="usb_audio_xpe" />
