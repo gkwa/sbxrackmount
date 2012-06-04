@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="maven_install_windows" path="maven_install_windows" />
 <project name="java_install_on_windows" path="java_install_on_windows" />
 <project name="sb_update" path="sb_update" />
 <project name="streambox_lcd_on_bootup" path="streambox_lcd_on_bootup" />
