@@ -6,6 +6,7 @@
 <default revision="master"
            remote="dev" /> 
 
+<project name="win_display_resolution" path="win_display_resolution" />
 <project name="java_and_maven_installer" path="java_and_maven_installer" />
 <project name="maven_install_windows" path="maven_install_windows" />
 <project name="java_install_on_windows" path="java_install_on_windows" />
