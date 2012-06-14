@@ -3,179 +3,348 @@
   <remote name="dev"
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
-<default revision="master"
-           remote="dev" /> 
-
-<project name="make-practice" path="make-practice" />
-<project name="m4-practice" path="m4-practice" />
-<project name="ls_updates" path="ls_updates" />
-<project name="update_minttyrc_according_to_resolution" path="update_minttyrc_according_to_resolution" />
-<project name="win_display_resolution" path="win_display_resolution" />
-<project name="java_and_maven_installer" path="java_and_maven_installer" />
-<project name="maven_install_windows" path="maven_install_windows" />
-<project name="java_install_on_windows" path="java_install_on_windows" />
-<project name="sb_update" path="sb_update" />
-<project name="streambox_lcd_on_bootup" path="streambox_lcd_on_bootup" />
-<project name="restart_processes_from_within_make" path="restart_processes_from_within_make" />
-<project name="cmd_convert_short_path_to_long" path="cmd_convert_short_path_to_long" />
-<project name="sfsvideo" path="sfsvideo" />
-<project name="sms-uninstall" path="sms-uninstall" />
-<project name="usb_audio_xpe" path="usb_audio_xpe" />
-<project name="largebits" path="largebits" />
-<project name="add_reboot_icon_to_quicklaunch_bar" path="add_reboot_icon_to_quicklaunch_bar" />
-<project name="npackd-practice" path="npackd-practice" />
-<project name="microsoft_redistributables" path="microsoft_redistributables" />
-<project name="get_guid_for_search" path="get_guid_for_search" />
-<project name="streambox_service_starter" path="streambox_service_starter" />
-<project name="stress_test_live" path="stress_test_live" />
-<project name="live_db_installer" path="live_db_installer" />
-<project name="netplwiz_automation" path="netplwiz_automation" />
-<project name="emacs-org-babel-tangle" path="emacs-org-babel-tangle" />
-<project name="ls_auto_activate" path="ls_auto_activate" />
-<project name="dummynet" path="dummynet" />
-<project name="git-check-projects" path="git-check-projects" />
-<project name="lstmptrash" path="lstmptrash" />
-<project name="qt_plus_qt_decoder_install_test" path="qt_plus_qt_decoder_install_test" />
-<project name="rms" path="rms" />
-<project name="map_googledocs_to_bz" path="map_googledocs_to_bz" />
-<project name="gnuwin32" path="gnuwin32" />
-<project name="php-installer" path="php-installer" />
-<project name="makefile-practice" path="makefile-practice" />
-<project name="tiny_perl_installer" path="tiny_perl_installer" />
-<project name="machine-check" path="machine-check" />
-<project name="smp" path="smp" />
-<project name="apache-console-app" path="apache-console-app" />
-<project name="ziptest" path="ziptest" />
-<project name="ds_withstorage" path="ds_withstorage" />
-<project name="virtualbox-practice" path="virtualbox-practice" />
-<project name="git" path="git" />
-<project name="9100-update" path="9100-update" />
-<project name="bug-maintenance" path="bug-maintenance" />
-<project name="sleep_after_reboot" path="sleep_after_reboot" />
-<project name="rsync-practice" path="rsync-practice" />
-<project name="aja-driver-install" path="aja-driver-install" />
-<project name="scons-practice" path="scons-practice" />
-<project name="nicready" path="nicready" />
-<project name="wix-practice" path="wix-practice" />
-<project name="mono-practice" path="mono-practice" />
-<project name="production-find-ls" path="production-find-ls" />
-<project name="plistParsing" path="plistParsing" />
-<project name="sfs-lite" path="sfs-lite" />
-<project name="netbios-disable" path="netbios-disable" />
-<project name="test-trash" path="test-trash" />
-<project name="virtualbox-automation" path="virtualbox-automation" />
-<project name="read-qt-tools" path="read-qt-tools" />
-<project name="cmake-practice" path="cmake-practice" />
-<project name="quictime-automation" path="quictime-automation" />
-<project name="bginfo" path="bginfo" />
-<project name="qt-decoder-hd-win" path="qt-decoder-hd-win" />
-<project name="qt-decoder-sd-win" path="qt-decoder-sd-win" />
-<project name="xena-test-tools" path="xena-test-tools" />
-<project name="xenserver-helper-scripts" path="xenserver-helper-scripts" />
-<project name="liveencoder-osx" path="liveencoder-osx" />
-<project name="autoit-practice" path="autoit-practice" />
-<project name="cygwin-setup" path="cygwin-setup" />
-<project name="iniparser" path="iniparser" />
-<project name="xmlstarlet-practice" path="xmlstarlet-practice" />
-<project name="quicktime" path="quicktime" />
-<project name="colorbarsbitmaps" path="colorbarsbitmaps" />
-<project name="check2000" path="check2000" />
-<project name="libguide-win" path="libguide-win" />
-<project name="transcoder-win" path="transcoder-win" />
-<project name="encoder-portable-sd-win" path="encoder-portable-sd-win" />
-<project name="encoder-portable-hd-win" path="encoder-portable-hd-win" />
-<project name="web-upgrade-practice" path="web-upgrade-practice" />
-<project name="sfc-osx" path="sfc-osx" />
-<project name="osx-webui" path="osx-webui" />
-<project name="win7" path="win7" />
-<project name="nsis-baseline" path="nsis-baseline" />
-<project name="abn" path="abn" />
-<project name="bs" path="bs" />
-<project name="bugzilla-setup" path="bugzilla-setup" />
-<project name="decoder-win" path="decoder-win" />
-<project name="docbook-practice" path="docbook-practice" />
-<project name="droplet" path="droplet" />
-<project name="ds" path="ds" />
-<project name="emacs" path="emacs" />
-<project name="encoder-hd-osx" path="encoder-hd-osx" />
-<project name="encoder-sd-osx" path="encoder-sd-osx" />
-<project name="encoder-settings" path="encoder-settings" />
-<project name="ess" path="ess" />
-<project name="fcp-compressor-presets" path="fcp-compressor-presets" />
-<project name="ftpserver" path="ftpserver" />
-<project name="ftt-win" path="ftt-win" />
-<project name="gerrit-setup" path="gerrit-setup" />
-<project name="ghost-image-check" path="ghost-image-check" />
-<project name="ghost-sync" path="ghost-sync" />
-<project name="git-practice" path="git-practice" />
-<project name="honeypot" path="honeypot" />
-<project name="ifb-client-win" path="ifb-client-win" />
-<project name="ifbserver" path="ifbserver" />
-<project name="jlcskip" path="jlcskip" />
-<project name="junction-test" path="junction-test" />
-<project name="keychain" path="keychain" />
-<project name="libguide" path="libguide" />
-<project name="libguide-hd-win" path="libguide-hd-win" />
-<project name="libguide-sd-win" path="libguide-sd-win" />
-<project name="linux" path="linux" />
-<project name="liveencoder-ntsc-osx" path="liveencoder-ntsc-osx" />
-<project name="liveencoder-win" path="liveencoder-win" />
-<project name="lstest" path="lstest" />
-<project name="manifest" path="manifest" />
-<project name="maven-practice" path="maven-practice" />
-<project name="mediaplayer-hd-osx" path="mediaplayer-hd-osx" />
-<project name="mediaplayer-hd-win32" path="mediaplayer-hd-win32" />
-<project name="mediaplayer-sd-osx" path="mediaplayer-sd-osx" />
-<project name="mediaplayer-sd-win32" path="mediaplayer-sd-win32" />
-<project name="memorycheck" path="memorycheck" />
-<project name="mp-hd-win32" path="mp-hd-win32" />
-<project name="nfs" path="nfs" />
-<project name="nsis-practice" path="nsis-practice" />
-<project name="nsis-streambox" path="nsis-streambox" />
-<project name="nsis-streambox2" path="nsis-streambox2" />
-<project name="osascript-practice" path="osascript-practice" />
-<project name="osx-packagemaker" path="osx-packagemaker" />
-<project name="perl-recdescent-practice" path="perl-recdescent-practice" />
-<project name="poweredge-bios" path="poweredge-bios" />
-<project name="prod-ls" path="prod-ls" />
-<project name="qt-decoder-hd-osx" path="qt-decoder-hd-osx" />
-<project name="qt-decoder-sd-osx" path="qt-decoder-sd-osx" />
-<project name="qt-encoder-act-hd-osx" path="qt-encoder-act-hd-osx" />
-<project name="qt-encoder-act-sd-osx" path="qt-encoder-act-sd-osx" />
-<project name="qt-encoder-hd-osx" path="qt-encoder-hd-osx" />
-<project name="qt-encoder-hd-win" path="qt-encoder-hd-win" />
-<project name="qt-encoder-sd-osx" path="qt-encoder-sd-osx" />
-<project name="qt-encoder-sd-win" path="qt-encoder-sd-win" />
-<project name="qt-practice" path="qt-practice" />
-<project name="qtcodec-win-hd" path="qtcodec-win-hd" />
-<project name="qtdecoder-osx" path="qtdecoder-osx" />
-<project name="qttools" path="qttools" />
-<project name="raid-activation" path="raid-activation" />
-<project name="rdp-connect" path="rdp-connect" />
-<project name="read-sb-changelog" path="read-sb-changelog" />
-<project name="run-bat-before-login" path="run-bat-before-login" />
-<project name="sas" path="sas" />
-<project name="sb-ports" path="sb-ports" />
-<project name="sbaudiocheck" path="sbaudiocheck" />
-<project name="sbtunnel" path="sbtunnel" />
-<project name="sbversioncheck" path="sbversioncheck" />
-<project name="selenium-practice" path="selenium-practice" />
-<project name="sfc-win" path="sfc-win" />
-<project name="sfs" path="sfs" />
-<project name="siwstats" path="siwstats" />
-<project name="sms" path="sms" />
-<project name="sqlite-practice" path="sqlite-practice" />
-<project name="ssh-setup" path="ssh-setup" />
-<project name="sslcerts" path="sslcerts" />
-<project name="subversion-bkp" path="subversion-bkp" />
-<project name="subversion-setup" path="subversion-setup" />
-<project name="sysprep" path="sysprep" />
-<project name="tools" path="tools" />
-<project name="transcoder-osx" path="transcoder-osx" />
-<project name="usb-bootable" path="usb-bootable" />
-<project name="videozilla" path="videozilla" />
-<project name="xenserver" path="xenserver" />
-<project name="xerox_email" path="xerox_email" />
-<project name="xquery-practice" path="xquery-practice" />
-
+  <default revision="master"
+           remote="dev" />
+  <project name="make-practice"
+           path="make-practice" />
+  <project name="m4-practice"
+           path="m4-practice" />
+  <project name="ls_updates"
+           path="ls_updates" />
+  <project name="update_minttyrc_according_to_resolution"
+           path="update_minttyrc_according_to_resolution" />
+  <project name="win_display_resolution"
+           path="win_display_resolution" />
+  <project name="java_and_maven_installer"
+           path="java_and_maven_installer" />
+  <project name="maven_install_windows"
+           path="maven_install_windows" />
+  <project name="java_install_on_windows"
+           path="java_install_on_windows" />
+  <project name="sb_update"
+           path="sb_update" />
+  <project name="streambox_lcd_on_bootup"
+           path="streambox_lcd_on_bootup" />
+  <project name="restart_processes_from_within_make"
+           path="restart_processes_from_within_make" />
+  <project name="cmd_convert_short_path_to_long"
+           path="cmd_convert_short_path_to_long" />
+  <project name="sfsvideo"
+           path="sfsvideo" />
+  <project name="sms-uninstall"
+           path="sms-uninstall" />
+  <project name="usb_audio_xpe"
+           path="usb_audio_xpe" />
+  <project name="largebits"
+           path="largebits" />
+  <project name="add_reboot_icon_to_quicklaunch_bar"
+           path="add_reboot_icon_to_quicklaunch_bar" />
+  <project name="npackd-practice"
+           path="npackd-practice" />
+  <project name="microsoft_redistributables"
+           path="microsoft_redistributables" />
+  <project name="get_guid_for_search"
+           path="get_guid_for_search" />
+  <project name="streambox_service_starter"
+           path="streambox_service_starter" />
+  <project name="stress_test_live"
+           path="stress_test_live" />
+  <project name="live_db_installer"
+           path="live_db_installer" />
+  <project name="netplwiz_automation"
+           path="netplwiz_automation" />
+  <project name="emacs-org-babel-tangle"
+           path="emacs-org-babel-tangle" />
+  <project name="ls_auto_activate"
+           path="ls_auto_activate" />
+  <project name="dummynet"
+           path="dummynet" />
+  <project name="git-check-projects"
+           path="git-check-projects" />
+  <project name="lstmptrash"
+           path="lstmptrash" />
+  <project name="qt_plus_qt_decoder_install_test"
+           path="qt_plus_qt_decoder_install_test" />
+  <project name="rms"
+           path="rms" />
+  <project name="map_googledocs_to_bz"
+           path="map_googledocs_to_bz" />
+  <project name="gnuwin32"
+           path="gnuwin32" />
+  <project name="php-installer"
+           path="php-installer" />
+  <project name="makefile-practice"
+           path="makefile-practice" />
+  <project name="tiny_perl_installer"
+           path="tiny_perl_installer" />
+  <project name="machine-check"
+           path="machine-check" />
+  <project name="smp"
+           path="smp" />
+  <project name="apache-console-app"
+           path="apache-console-app" />
+  <project name="ziptest"
+           path="ziptest" />
+  <project name="ds_withstorage"
+           path="ds_withstorage" />
+  <project name="virtualbox-practice"
+           path="virtualbox-practice" />
+  <project name="git"
+           path="git" />
+  <project name="9100-update"
+           path="9100-update" />
+  <project name="bug-maintenance"
+           path="bug-maintenance" />
+  <project name="sleep_after_reboot"
+           path="sleep_after_reboot" />
+  <project name="rsync-practice"
+           path="rsync-practice" />
+  <project name="aja-driver-install"
+           path="aja-driver-install" />
+  <project name="scons-practice"
+           path="scons-practice" />
+  <project name="nicready"
+           path="nicready" />
+  <project name="wix-practice"
+           path="wix-practice" />
+  <project name="mono-practice"
+           path="mono-practice" />
+  <project name="production-find-ls"
+           path="production-find-ls" />
+  <project name="plistParsing"
+           path="plistParsing" />
+  <project name="sfs-lite"
+           path="sfs-lite" />
+  <project name="netbios-disable"
+           path="netbios-disable" />
+  <project name="test-trash"
+           path="test-trash" />
+  <project name="virtualbox-automation"
+           path="virtualbox-automation" />
+  <project name="read-qt-tools"
+           path="read-qt-tools" />
+  <project name="cmake-practice"
+           path="cmake-practice" />
+  <project name="quictime-automation"
+           path="quictime-automation" />
+  <project name="bginfo"
+           path="bginfo" />
+  <project name="qt-decoder-hd-win"
+           path="qt-decoder-hd-win" />
+  <project name="qt-decoder-sd-win"
+           path="qt-decoder-sd-win" />
+  <project name="xena-test-tools"
+           path="xena-test-tools" />
+  <project name="xenserver-helper-scripts"
+           path="xenserver-helper-scripts" />
+  <project name="liveencoder-osx"
+           path="liveencoder-osx" />
+  <project name="autoit-practice"
+           path="autoit-practice" />
+  <project name="cygwin-setup"
+           path="cygwin-setup" />
+  <project name="iniparser"
+           path="iniparser" />
+  <project name="xmlstarlet-practice"
+           path="xmlstarlet-practice" />
+  <project name="quicktime"
+           path="quicktime" />
+  <project name="colorbarsbitmaps"
+           path="colorbarsbitmaps" />
+  <project name="check2000"
+           path="check2000" />
+  <project name="libguide-win"
+           path="libguide-win" />
+  <project name="transcoder-win"
+           path="transcoder-win" />
+  <project name="encoder-portable-sd-win"
+           path="encoder-portable-sd-win" />
+  <project name="encoder-portable-hd-win"
+           path="encoder-portable-hd-win" />
+  <project name="web-upgrade-practice"
+           path="web-upgrade-practice" />
+  <project name="sfc-osx"
+           path="sfc-osx" />
+  <project name="osx-webui"
+           path="osx-webui" />
+  <project name="win7"
+           path="win7" />
+  <project name="nsis-baseline"
+           path="nsis-baseline" />
+  <project name="abn"
+           path="abn" />
+  <project name="bs"
+           path="bs" />
+  <project name="bugzilla-setup"
+           path="bugzilla-setup" />
+  <project name="decoder-win"
+           path="decoder-win" />
+  <project name="docbook-practice"
+           path="docbook-practice" />
+  <project name="droplet"
+           path="droplet" />
+  <project name="ds"
+           path="ds" />
+  <project name="emacs"
+           path="emacs" />
+  <project name="encoder-hd-osx"
+           path="encoder-hd-osx" />
+  <project name="encoder-sd-osx"
+           path="encoder-sd-osx" />
+  <project name="encoder-settings"
+           path="encoder-settings" />
+  <project name="ess"
+           path="ess" />
+  <project name="fcp-compressor-presets"
+           path="fcp-compressor-presets" />
+  <project name="ftpserver"
+           path="ftpserver" />
+  <project name="ftt-win"
+           path="ftt-win" />
+  <project name="gerrit-setup"
+           path="gerrit-setup" />
+  <project name="ghost-image-check"
+           path="ghost-image-check" />
+  <project name="ghost-sync"
+           path="ghost-sync" />
+  <project name="git-practice"
+           path="git-practice" />
+  <project name="honeypot"
+           path="honeypot" />
+  <project name="ifb-client-win"
+           path="ifb-client-win" />
+  <project name="ifbserver"
+           path="ifbserver" />
+  <project name="jlcskip"
+           path="jlcskip" />
+  <project name="junction-test"
+           path="junction-test" />
+  <project name="keychain"
+           path="keychain" />
+  <project name="libguide"
+           path="libguide" />
+  <project name="libguide-hd-win"
+           path="libguide-hd-win" />
+  <project name="libguide-sd-win"
+           path="libguide-sd-win" />
+  <project name="linux"
+           path="linux" />
+  <project name="liveencoder-ntsc-osx"
+           path="liveencoder-ntsc-osx" />
+  <project name="liveencoder-win"
+           path="liveencoder-win" />
+  <project name="lstest"
+           path="lstest" />
+  <project name="manifest"
+           path="manifest" />
+  <project name="maven-practice"
+           path="maven-practice" />
+  <project name="mediaplayer-hd-osx"
+           path="mediaplayer-hd-osx" />
+  <project name="mediaplayer-hd-win32"
+           path="mediaplayer-hd-win32" />
+  <project name="mediaplayer-sd-osx"
+           path="mediaplayer-sd-osx" />
+  <project name="mediaplayer-sd-win32"
+           path="mediaplayer-sd-win32" />
+  <project name="memorycheck"
+           path="memorycheck" />
+  <project name="mp-hd-win32"
+           path="mp-hd-win32" />
+  <project name="nfs"
+           path="nfs" />
+  <project name="nsis-practice"
+           path="nsis-practice" />
+  <project name="nsis-streambox"
+           path="nsis-streambox" />
+  <project name="nsis-streambox2"
+           path="nsis-streambox2" />
+  <project name="osascript-practice"
+           path="osascript-practice" />
+  <project name="osx-packagemaker"
+           path="osx-packagemaker" />
+  <project name="perl-recdescent-practice"
+           path="perl-recdescent-practice" />
+  <project name="poweredge-bios"
+           path="poweredge-bios" />
+  <project name="prod-ls"
+           path="prod-ls" />
+  <project name="qt-decoder-hd-osx"
+           path="qt-decoder-hd-osx" />
+  <project name="qt-decoder-sd-osx"
+           path="qt-decoder-sd-osx" />
+  <project name="qt-encoder-act-hd-osx"
+           path="qt-encoder-act-hd-osx" />
+  <project name="qt-encoder-act-sd-osx"
+           path="qt-encoder-act-sd-osx" />
+  <project name="qt-encoder-hd-osx"
+           path="qt-encoder-hd-osx" />
+  <project name="qt-encoder-hd-win"
+           path="qt-encoder-hd-win" />
+  <project name="qt-encoder-sd-osx"
+           path="qt-encoder-sd-osx" />
+  <project name="qt-encoder-sd-win"
+           path="qt-encoder-sd-win" />
+  <project name="qt-practice"
+           path="qt-practice" />
+  <project name="qtcodec-win-hd"
+           path="qtcodec-win-hd" />
+  <project name="qtdecoder-osx"
+           path="qtdecoder-osx" />
+  <project name="qttools"
+           path="qttools" />
+  <project name="raid-activation"
+           path="raid-activation" />
+  <project name="rdp-connect"
+           path="rdp-connect" />
+  <project name="read-sb-changelog"
+           path="read-sb-changelog" />
+  <project name="run-bat-before-login"
+           path="run-bat-before-login" />
+  <project name="sas"
+           path="sas" />
+  <project name="sb-ports"
+           path="sb-ports" />
+  <project name="sbaudiocheck"
+           path="sbaudiocheck" />
+  <project name="sbtunnel"
+           path="sbtunnel" />
+  <project name="sbversioncheck"
+           path="sbversioncheck" />
+  <project name="selenium-practice"
+           path="selenium-practice" />
+  <project name="sfc-win"
+           path="sfc-win" />
+  <project name="sfs"
+           path="sfs" />
+  <project name="siwstats"
+           path="siwstats" />
+  <project name="sms"
+           path="sms" />
+  <project name="sqlite-practice"
+           path="sqlite-practice" />
+  <project name="ssh-setup"
+           path="ssh-setup" />
+  <project name="sslcerts"
+           path="sslcerts" />
+  <project name="subversion-bkp"
+           path="subversion-bkp" />
+  <project name="subversion-setup"
+           path="subversion-setup" />
+  <project name="sysprep"
+           path="sysprep" />
+  <project name="tools"
+           path="tools" />
+  <project name="transcoder-osx"
+           path="transcoder-osx" />
+  <project name="usb-bootable"
+           path="usb-bootable" />
+  <project name="videozilla"
+           path="videozilla" />
+  <project name="xenserver"
+           path="xenserver" />
+  <project name="xerox_email"
+           path="xerox_email" />
+  <project name="xquery-practice"
+           path="xquery-practice" />
 </manifest>
