@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
+  <project name="emacs_build"
+           path="emacs_build" />
   <project name="emacs_multiple_org_files"
            path="emacs_multiple_org_files" />
   <project name="activation_server_live_server_reactivation_investigation"
