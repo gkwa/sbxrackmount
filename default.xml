@@ -3,6 +3,8 @@
   <remote name="dev"
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
+  <project name="rename_encoders_decoders"
+           path="rename_encoders_decoders" />
   <project name="emacs_build"
            path="emacs_build" />
   <project name="emacs_multiple_org_files"
