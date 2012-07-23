@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="dpinst"
+           path="dpinst" />
   <project name="avenir_update"
            path="avenir_update" />
   <project name="rename_encoders_decoders"
