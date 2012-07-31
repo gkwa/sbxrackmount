@@ -5,6 +5,8 @@
           review="http://gerrit:8080" />
 
 
+  <project name="osx_dropbox_crash_report"
+           path="osx_dropbox_crash_report" />
   <project name="activation_server2_test_client"
            path="activation_server2_test_client" />
   <project name="dpinst"
