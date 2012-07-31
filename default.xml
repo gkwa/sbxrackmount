@@ -4,6 +4,9 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+
+  <project name="activation_server2_test_client"
+           path="activation_server2_test_client" />
   <project name="dpinst"
            path="dpinst" />
   <project name="avenir_update"
