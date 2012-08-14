@@ -4,7 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
-
+  <project name="win_ed_webapi"
+           path="win_ed_webapi" />
   <project name="osx_dropbox_crash_report"
            path="osx_dropbox_crash_report" />
   <project name="activation_server2_test_client"
