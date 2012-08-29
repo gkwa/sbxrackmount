@@ -12,8 +12,8 @@
            path="activation_server2_test_client" />
   <project name="dpinst"
            path="dpinst" />
-  <project name="avenir_update"
-           path="avenir_update" />
+  <project name="avenir_updates"
+           path="avenir_updates" />
   <project name="rename_encoders_decoders"
            path="rename_encoders_decoders" />
   <project name="emacs_build"
