@@ -18,8 +18,6 @@
            path="rename_encoders_decoders" />
   <project name="emacs_build"
            path="emacs_build" />
-  <project name="emacs_multiple_org_files"
-           path="emacs_multiple_org_files" />
   <project name="activation_server_live_server_reactivation_investigation"
            path="activation_server_live_server_reactivation_investigation" />
   <default revision="master"
