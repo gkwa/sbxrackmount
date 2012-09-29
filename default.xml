@@ -4,7 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
-
+  <project name="winini_reset"
+           path="winini_reset" />
   <project name="live_licese_backup"
            path="live_licese_backup" />
   <project name="osx_sleepwatcher"
