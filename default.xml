@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="filezilla_add_user"
+           path="filezilla_add_user" />
   <project name="appcast"
            path="appcast" />
   <project name="jinja2-practice"
