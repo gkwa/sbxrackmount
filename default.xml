@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="streambox_firewall_setup"
+           path="streambox_firewall_setup" />
   <project name="es_backup_lics"
            path="es_backup_lics" />
   <project name="filezilla_add_user"
