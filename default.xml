@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="cleanup_windows_filesystem"
+           path="cleanup_windows_filesystem" />
   <project name="ubuntu-kickstart"
            path="ubuntu-kickstart" />
   <project name="streambox_firewall_setup"
