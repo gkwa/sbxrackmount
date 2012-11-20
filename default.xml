@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="live_db_backup"
+           path="live_db_backup" />
   <project name="sms_test_many_versions"
            path="sms_test_many_versions" />
   <project name="mediaplayer-win32-testing"
