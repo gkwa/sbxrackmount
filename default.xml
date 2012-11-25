@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="uninstall_applecare"
+           path="uninstall_applecare" />
   <project name="screen_scrape_hardware_id_from_activation_applet"
            path="screen_scrape_hardware_id_from_activation_applet" />
   <project name="virtualbox-control"
