@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="group_files_by_regexp"
+           path="group_files_by_regexp" />
   <project name="get_guid_for_search_wrapper"
            path="get_guid_for_search_wrapper" />
   <project name="screen_scrape_hardware_id_from_activation_applet"
