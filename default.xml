@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="AudioCodecTesting"
+           path="AudioCodecTesting" />
   <project name="group_files_by_basename_and_sort_by_mtime"
            path="group_files_by_basename_and_sort_by_mtime" />
   <project name="get_guid_for_search_wrapper"
