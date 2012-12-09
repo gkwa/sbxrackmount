@@ -8,8 +8,6 @@
            path="jinja2_practice" />
   <project name="osx_encoder_presets"
            path="osx_encoder_presets" />
-  <project name="AudioCodecTesting"
-           path="AudioCodecTesting" />
   <project name="group_files_by_basename_and_sort_by_mtime"
            path="group_files_by_basename_and_sort_by_mtime" />
   <project name="get_guid_for_search_wrapper"
