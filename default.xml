@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="update_win_ini_to_fullduplex"
+           path="update_win_ini_to_fullduplex" />
   <project name="jinja2_practice"
            path="jinja2_practice" />
   <project name="osx_encoder_presets"
