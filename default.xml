@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="out-of-box-drivers"
+           path="out-of-box-drivers" />
   <project name="react_when_folder_changes_osx"
            path="react_when_folder_changes_osx" />
   <project name="windows-sim"
