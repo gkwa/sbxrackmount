@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="merge_encoder_preset_plists"
+           path="merge_encoder_preset_plists" />
   <project name="mediaplayer-readynas-rename"
            path="mediaplayer-readynas-rename" />
   <project name="out-of-box-drivers"
