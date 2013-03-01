@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="streamboxme_pro_osx"
+           path="streamboxme_pro_osx" />
   <project name="stremabox-transport-cap"
            path="stremabox-transport-cap" />
   <project name="live_db_upgrade"
