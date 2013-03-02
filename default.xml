@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="xcode-practice1"
+           path="xcode-practice1" />
   <project name="streamboxme_pro_osx"
            path="streamboxme_pro_osx" />
   <project name="stremabox-transport-cap"
