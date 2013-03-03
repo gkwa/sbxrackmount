@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="git-practice-git-subtree-merge1"
+           path="git-practice-git-subtree-merge1" />
   <project name="streambox_osx_app_installer_certs"
            path="streambox_osx_app_installer_certs" />
   <project name="ScaryBugsMac"
