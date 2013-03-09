@@ -12,8 +12,6 @@
            path="streambox_osx_app_installer_certs" />
   <project name="ScaryBugsMac"
            path="ScaryBugsMac" />
-  <project name="xcode-practice1"
-           path="xcode-practice1" />
   <project name="streamboxme_pro_osx"
            path="streamboxme_pro_osx" />
   <project name="stremabox-transport-cap"
