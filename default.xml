@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="update_conf"
+           path="update_conf" />
   <project name="sls_decoder"
            path="sls_decoder" />
   <project name="git-practice-git-subtree-merge1"
