@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="tmux-practice" 
+	   path="tmux-practice" />
   <project name="php-practice"
 	   path="php-practice" />
   <project name="streambox_live_configuration" 
