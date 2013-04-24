@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="apache-testing-ssl"
+	   path="apache-testing-ssl" />
   <project name="apache-testing"
 	   path="apache-testing" />
   <project name="compare_smphd_on_2_mac_mini"
