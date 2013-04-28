@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="mysql_win_installer"
+	   path="mysql_win_installer" />
   <project name="apache-testing2-ssl"
 	   path="apache-testing2-ssl" />
   <project name="apache-testing-ssl"
