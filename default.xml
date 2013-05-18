@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="python_practice"
+	   path="python_practice" />
   <project name="nagios_nsclient_installer"
 	   path="nagios_nsclient_installer" />
   <project name="find_storage_drive"
