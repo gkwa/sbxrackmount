@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="amazon_aws_templates"
+	   path="amazon_aws_templates" />
   <project name="python_practice"
 	   path="python_practice" />
   <project name="nagios_nsclient_installer"
