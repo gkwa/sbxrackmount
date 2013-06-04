@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="win_ed_webapi_git_svn_clone"
+	   path="win_ed_webapi_git_svn_clone" />
   <project name="winini_act_port_85"
 	   path="winini_act_port_85" />
   <project name="amazon_aws_templates"
