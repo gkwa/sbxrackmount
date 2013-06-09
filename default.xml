@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="vcredist_installer"
+	   path="vcredist_installer" />
   <project name="winini_act_port_85"
 	   path="winini_act_port_85" />
   <project name="amazon_aws_templates"
