@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="decoders_test"
+	   path="decoders_test" />
   <project name="cx_freeze_python_practice"
 	   path="cx_freeze_python_practice" />
   <project name="readynas-rename"
