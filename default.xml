@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="winini_reset_using_php"
+	   path="winini_reset_using_php" />
   <project name="streambox_sbt3_9400_check_mode"
 	   path="streambox_sbt3_9400_check_mode" />
   <project name="non_sucking_service_manager_nssm"
