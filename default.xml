@@ -12,8 +12,6 @@
 	   path="non_sucking_service_manager_nssm" />
   <project name="streambox_detect_encoder_resolution"
 	   path="streambox_detect_encoder_resolution" />
-  <project name="streambox_echo_upload_instructions"
-	   path="streambox_echo_upload_instructions" />
   <project name="decoders_test"
 	   path="decoders_test" />
   <project name="cx_freeze_python_practice"
