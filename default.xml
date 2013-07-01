@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="cx_freeze_python_setup"
+	   path="cx_freeze_python_setup" />
   <project name="winini_reset_python"
 	   path="winini_reset_python" />
   <project name="streamboxme_pro_manuals"
