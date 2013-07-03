@@ -442,8 +442,6 @@
            path="qtcodec-win-hd" />
   <project name="qtdecoder-osx"
            path="qtdecoder-osx" />
-  <project name="qttools"
-           path="qttools" />
   <project name="raid-activation"
            path="raid-activation" />
   <project name="rdp-connect"
