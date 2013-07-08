@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="window_driver_kit_tools"
+	   path="window_driver_kit_tools" />
   <project name="aja_card_detect"
 	   path="aja_card_detect" />
   <project name="webloc_finagler"
