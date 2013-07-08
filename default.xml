@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="webloc_finagler"
+	   path="webloc_finagler" />
   <project name="transcap"
 	   path="transcap" />
   <project name="cx_freeze_python_setup"
