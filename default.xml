@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="emacs_test_org_mode_split_file"
+	   path="emacs_test_org_mode_split_file" />
   <project name="find_duplicate_files"
 	   path="find_duplicate_files" />
   <project name="run_cpuz_silently"
