@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="winmtr_windows"
+	   path="winmtr_windows" />
   <project name="selenium_grid_install_windows"
 	   path="selenium_grid_install_windows" />
   <project name="curl_standalone_windows"
