@@ -8,8 +8,6 @@
 	   path="org-mode" />
   <project name="ifb-client-osx"
 	   path="ifb-client-osx" />
-  <project name="winmtr_windows"
-	   path="winmtr_windows" />
   <project name="selenium_grid_install_windows"
 	   path="selenium_grid_install_windows" />
   <project name="curl_standalone_windows"
