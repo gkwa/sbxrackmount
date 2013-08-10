@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="add_icon_to_windows_desktop"
+	   path="add_icon_to_windows_desktop" />
   <project name="vagrant-test"
 	   path="vagrant-test" />
   <project name="virtualbox-snapshotpng"
