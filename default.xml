@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="windows7_folder_properties"
+	   path="windows7_folder_properties" />
   <project name="windows7_taskbar_small"
 	   path="windows7_taskbar_small" />
   <project name="add_icon_to_windows_desktop"
