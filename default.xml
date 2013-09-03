@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="apache-testing3-ssl"
+	   path="apache-testing3-ssl" />
   <project name="intel_prowin_drivers"
 	   path="intel_prowin_drivers" />
   <project name="win7_setup_install_setupcomplete"
