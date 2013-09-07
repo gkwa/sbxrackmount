@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="netem"
+	   path="netem" />
   <project name="apache-testing3-ssl"
 	   path="apache-testing3-ssl" />
   <project name="intel_prowin_drivers"
