@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="lua-practice"
+	   path="lua-practice" />
   <project name="uninstall_KB2533552"
 	   path="uninstall_KB2533552" />
   <project name="d3c"
