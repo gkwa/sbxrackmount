@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="win_reboot_continuously"
+	   path="win_reboot_continuously" />
   <project name="windows_turn_off_numlock"
 	   path="windows_turn_off_numlock" />
   <project name="osx_folder_actions"
