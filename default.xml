@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="google_drive_api"
+	   path="google_drive_api" />
   <project name="win_display_write_protect_status_desktop"
 	   path="win_display_write_protect_status_desktop" />
   <project name="win_recycle_on_delete_setting"
