@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="vagrant-practice"
+	   path="vagrant-practice" />
   <project name="google_drive_api"
 	   path="google_drive_api" />
   <project name="win_display_write_protect_status_desktop"
