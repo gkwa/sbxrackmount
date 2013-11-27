@@ -18,8 +18,6 @@
 	   path="win_reboot_continuously" />
   <project name="windows_turn_off_numlock"
 	   path="windows_turn_off_numlock" />
-  <project name="osx_folder_actions"
-	   path="osx_folder_actions" />
   <project name="weblog"
 	   path="weblog" />
   <project name="gtk-practice"
