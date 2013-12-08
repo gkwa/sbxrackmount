@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="mdt_deployment"
+	   path="mdt_deployment" />
   <project name="vagrant-chef-fedora"
 	   path="vagrant-chef-fedora" />
   <project name="amazon-boto-practice"
