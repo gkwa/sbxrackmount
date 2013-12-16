@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="powershell-pin-taskbar-startmenu"
+	   path="powershell-pin-taskbar-startmenu" />
   <project name="activemq-dotnet-compile"
 	   path="activemq-dotnet-compile" />
   <project name="book_source_activemq_in_action"
