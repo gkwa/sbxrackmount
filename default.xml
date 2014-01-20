@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="subversion_windows_collabnet"
+	   path="subversion_windows_collabnet" />
   <project name="powershell-practice"
 	   path="powershell-practice" />
   <project name="ps_update_path_immediately"
