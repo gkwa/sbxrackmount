@@ -28,8 +28,6 @@
 	   path="mdt_deployment" />
   <project name="vagrant-chef-fedora"
 	   path="vagrant-chef-fedora" />
-  <project name="amazon-boto-practice"
-	   path="amazon-boto-practice" />
   <project name="amazon-s3-practice"
 	   path="amazon-s3-practice" />
   <project name="vagrant-practice"
