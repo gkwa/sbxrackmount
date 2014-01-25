@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="windows_filesystemwatcher"
+	   path="windows_filesystemwatcher" />
   <project name="rsync_backup_laptop"
 	   path="rsync_backup_laptop" />
   <project name="subversion_windows_collabnet"
