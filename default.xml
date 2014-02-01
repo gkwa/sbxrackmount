@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="jetS3t"
+	   path="jetS3t" />
   <project name="robocopy-practice"
 	   path="robocopy-practice" />
   <project name="git_compile_cygwin"
