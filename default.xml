@@ -4,6 +4,8 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="sparkle_smphd_test_only"
+	   path="sparkle_smphd_test_only" />
   <project name="amazon-boto-practice"
 	   path="amazon-boto-practice" />
   <project name="jetS3t"
