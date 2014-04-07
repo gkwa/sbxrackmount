@@ -4,8 +4,6 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
-  <project name="ws7p_unattend_install"
-	   path="ws7p_unattend_install" />
   <project name="mdt_create_deployment_share"
 	   path="mdt_create_deployment_share" />
   <project name="copy_osx_keychains"
