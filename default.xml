@@ -4,8 +4,6 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
-  <project name="tmp_test_crash_winini"
-	   path="tmp_test_crash_winini" />
   <project name="make_practice"
 	   path="make_practice" />
   <project name="wedu-control"
