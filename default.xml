@@ -4,6 +4,10 @@
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
           review="http://gerrit:8080" />
 
+  <project name="emacs_batch_mode_practice"
+	   path="emacs_batch_mode_practice" />
+  <project name="streambox_app_automation"
+	   path="streambox_app_automation" />
   <project name="make_practice"
 	   path="make_practice" />
   <project name="wedu-control"
