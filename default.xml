@@ -8,8 +8,6 @@
 	   path="7z_practice" />
   <project name="emacs_batch_mode_practice"
 	   path="emacs_batch_mode_practice" />
-  <project name="streambox_app_automation"
-	   path="streambox_app_automation" />
   <project name="make_practice"
 	   path="make_practice" />
   <project name="wedu-control"
