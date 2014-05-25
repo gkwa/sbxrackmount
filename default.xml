@@ -8,8 +8,6 @@
 	   path="7z_practice" />
   <project name="make_practice"
 	   path="make_practice" />
-  <project name="wedu-control"
-	   path="wedu-control" />
   <project name="mdt_create_deployment_share"
 	   path="mdt_create_deployment_share" />
   <project name="copy_osx_keychains"
