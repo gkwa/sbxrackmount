@@ -33,13 +33,13 @@
   <project name="powershell-practice"
 	   path="powershell-practice" />
   <project name="ps_update_path_immediately"
-	 path="ps_update_path_immediately" />
+	   path="ps_update_path_immediately" />
   <project name="remove_byte_order_mark"
 	   path="remove_byte_order_mark" />
   <project name="linq-practice"
 	   path="linq-practice" />
   <project name="windows-fix-paths" 
-	 path="windows-fix-paths" />
+	   path="windows-fix-paths" />
   <project name="powershell-pin-taskbar-startmenu"
 	   path="powershell-pin-taskbar-startmenu" />
   <project name="activemq-dotnet-compile"
