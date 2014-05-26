@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote name="dev"
           fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj"
