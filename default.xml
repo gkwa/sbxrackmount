@@ -12,8 +12,6 @@
 	   path="mdt_create_deployment_share" />
   <project name="copy_osx_keychains"
 	   path="copy_osx_keychains" />
-  <project name="python-practice"
-	   path="python-practice" />
   <project name="python-celery-practice"
 	   path="python-celery-practice" />
   <project name="amazon-boto-practice"
