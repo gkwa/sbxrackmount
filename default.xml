@@ -57,7 +57,6 @@
   <project name="selenium_grid_install_windows" path="selenium_grid_install_windows" />
   <project name="curl_standalone_windows" path="curl_standalone_windows" />
   <project name="emacs_test_org_mode_split_file" path="emacs_test_org_mode_split_file" />
-  <project name="find_duplicate_files" path="find_duplicate_files" />
   <project name="run_cpuz_silently" path="run_cpuz_silently" />
   <project name="devcon_testing" path="devcon_testing" />
   <project name="window_driver_kit_tools" path="window_driver_kit_tools" />
