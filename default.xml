@@ -14,7 +14,6 @@
   <project name="windows_filesystemwatcher" path="windows_filesystemwatcher" />
   <project name="rsync_backup_laptop" path="rsync_backup_laptop" />
   <project name="subversion_windows_collabnet" path="subversion_windows_collabnet" />
-  <project name="powershell-practice" path="powershell-practice" />
   <project name="ps_update_path_immediately" path="ps_update_path_immediately" />
   <project name="remove_byte_order_mark" path="remove_byte_order_mark" />
   <project name="linq-practice" path="linq-practice" />
