@@ -194,7 +194,6 @@
   <project name="production-find-ls" path="production-find-ls" />
   <project name="plistParsing" path="plistParsing" />
   <project name="sfs-lite" path="sfs-lite" />
-  <project name="netbios-disable" path="netbios-disable" />
   <project name="test-trash" path="test-trash" />
   <project name="read-qt-tools" path="read-qt-tools" />
   <project name="cmake-practice" path="cmake-practice" />
