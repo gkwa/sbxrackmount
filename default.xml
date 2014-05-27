@@ -30,7 +30,6 @@
   <project name="win_recycle_on_delete_setting" path="win_recycle_on_delete_setting" />
   <project name="win_reboot_continuously" path="win_reboot_continuously" />
   <project name="windows_turn_off_numlock" path="windows_turn_off_numlock" />
-  <project name="weblog" path="weblog" />
   <project name="gtk-practice" path="gtk-practice" />
   <project name="visualize-makefile-deps" path="visualize-makefile-deps" />
   <project name="esls_watchdog" path="esls_watchdog" />
