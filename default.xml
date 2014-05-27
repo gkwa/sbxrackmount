@@ -118,7 +118,6 @@
   <project name="virtualbox-control" path="virtualbox-control" />
   <project name="live_db_backup" path="live_db_backup" />
   <project name="sms_test_many_versions" path="sms_test_many_versions" />
-  <project name="mediaplayer-win32-testing" path="mediaplayer-win32-testing" />
   <project name="cleanup_windows_filesystem" path="cleanup_windows_filesystem" />
   <project name="ubuntu-kickstart" path="ubuntu-kickstart" />
   <project name="streambox_firewall_setup" path="streambox_firewall_setup" />
