@@ -138,7 +138,6 @@
   <project name="emacs_build" path="emacs_build" />
   <project name="activation_server_live_server_reactivation_investigation" path="activation_server_live_server_reactivation_investigation" />
   <default remote="dev" revision="master" />
-  <project name="make-practice" path="make-practice" />
   <project name="m4-practice" path="m4-practice" />
   <project name="ls_updates" path="ls_updates" />
   <project name="update_minttyrc_according_to_resolution" path="update_minttyrc_according_to_resolution" />
