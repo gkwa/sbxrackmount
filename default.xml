@@ -197,7 +197,6 @@
   <project name="sfs-lite" path="sfs-lite" />
   <project name="netbios-disable" path="netbios-disable" />
   <project name="test-trash" path="test-trash" />
-  <project name="virtualbox-automation" path="virtualbox-automation" />
   <project name="read-qt-tools" path="read-qt-tools" />
   <project name="cmake-practice" path="cmake-practice" />
   <project name="quictime-automation" path="quictime-automation" />
