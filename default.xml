@@ -43,7 +43,6 @@
   <project name="intel_prowin_drivers" path="intel_prowin_drivers" />
   <project name="win7_setup_install_setupcomplete" path="win7_setup_install_setupcomplete" />
   <project name="ws7e_deployment_tools" path="ws7e_deployment_tools" />
-  <project name="nvspbind_network_card_config" path="nvspbind_network_card_config" />
   <project name="windows7_taskbar_small" path="windows7_taskbar_small" />
   <project name="add_icon_to_windows_desktop" path="add_icon_to_windows_desktop" />
   <project name="vagrant-test" path="vagrant-test" />
