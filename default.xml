@@ -4,7 +4,6 @@
   <default remote="dev" revision="master" />
 
   <project name="7z_practice" path="7z_practice" />
-  <project name="make_practice" path="make_practice" />
   <project name="mdt_create_deployment_share" path="mdt_create_deployment_share" />
   <project name="copy_osx_keychain" path="copy_osx_keychain" />
   <project name="amazon-boto-practice" path="amazon-boto-practice" />
