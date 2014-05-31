@@ -19,7 +19,6 @@
   <project name="remove_byte_order_mark" path="remove_byte_order_mark" />
   <project name="windows-fix-paths" path="windows-fix-paths" />
   <project name="powershell-pin-taskbar-startmenu" path="powershell-pin-taskbar-startmenu" />
-  <project name="activemq-dotnet-compile" path="activemq-dotnet-compile" />
   <project name="book_source_activemq_in_action" path="book_source_activemq_in_action" />
   <project name="chocolatey_installer" path="chocolatey_installer" />
   <project name="vagrant-chef-fedora" path="vagrant-chef-fedora" />
