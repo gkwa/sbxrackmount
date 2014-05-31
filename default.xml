@@ -279,7 +279,6 @@
   <project name="sbaudiocheck" path="sbaudiocheck" />
   <project name="sbtunnel" path="sbtunnel" />
   <project name="sbversioncheck" path="sbversioncheck" />
-  <project name="selenium-practice" path="selenium-practice" />
   <project name="sfc-win" path="sfc-win" />
   <project name="sfs" path="sfs" />
   <project name="siwstats" path="siwstats" />
