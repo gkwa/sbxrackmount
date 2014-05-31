@@ -7,7 +7,6 @@
   <project name="make_practice" path="make_practice" />
   <project name="mdt_create_deployment_share" path="mdt_create_deployment_share" />
   <project name="copy_osx_keychain" path="copy_osx_keychain" />
-  <project name="python-celery-practice" path="python-celery-practice" />
   <project name="amazon-boto-practice" path="amazon-boto-practice" />
   <project name="jetS3t" path="jetS3t" />
   <project name="robocopy-practice" path="robocopy-practice" />
