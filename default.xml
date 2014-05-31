@@ -272,7 +272,6 @@
   <project name="qtdecoder-osx" path="qtdecoder-osx" />
   <project name="raid-activation" path="raid-activation" />
   <project name="rdp-connect" path="rdp-connect" />
-  <project name="read-sb-changelog" path="read-sb-changelog" />
   <project name="run-bat-before-login" path="run-bat-before-login" />
   <project name="sas" path="sas" />
   <project name="sb-ports" path="sb-ports" />
