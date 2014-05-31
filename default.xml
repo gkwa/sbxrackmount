@@ -22,7 +22,6 @@
   <project name="activemq-dotnet-compile" path="activemq-dotnet-compile" />
   <project name="book_source_activemq_in_action" path="book_source_activemq_in_action" />
   <project name="chocolatey_installer" path="chocolatey_installer" />
-  <project name="mdt_deployment" path="mdt_deployment" />
   <project name="vagrant-chef-fedora" path="vagrant-chef-fedora" />
   <project name="amazon-s3-practice" path="amazon-s3-practice" />
   <project name="vagrant-practice" path="vagrant-practice" />
