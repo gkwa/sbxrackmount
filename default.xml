@@ -193,7 +193,6 @@
   <project name="xenserver-helper-scripts" path="xenserver-helper-scripts" />
   <project name="liveencoder-osx" path="liveencoder-osx" />
   <project name="autoit-practice" path="autoit-practice" />
-  <project name="iniparser" path="iniparser" />
   <project name="xmlstarlet-practice" path="xmlstarlet-practice" />
   <project name="quicktime" path="quicktime" />
   <project name="colorbarsbitmaps" path="colorbarsbitmaps" />
