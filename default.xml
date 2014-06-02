@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" />
-  <default remote="dev" revision="master" />
+  <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
+  <default revision="master" />
 
   <project name="7z_practice" remote="dev" />
   <project name="copy_osx_keychain" remote="dev" />
