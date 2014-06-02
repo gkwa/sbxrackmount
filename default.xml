@@ -8,6 +8,7 @@
   <project name="out-of-box-drivers" remote="dev" />
   <project name="out-of-box-drivers" path="mdt_create_deployment_share/out-of-box-drivers" remote="dev" />
 
+  <project name="vagrant-chef-fedora" remote="gh" />
   <project name="manifest" remote="gh" />
   <project name="7z_practice" remote="gh" />
   <project name="activemq-dotnet-compile" remote="gh" />
@@ -56,7 +57,6 @@
   <project name="powershell-pin-taskbar-startmenu" remote="dev" />
   <project name="book_source_activemq_in_action" remote="dev" />
   <project name="chocolatey_installer" remote="dev" />
-  <project name="vagrant-chef-fedora" remote="dev" />
   <project name="amazon-s3-practice" remote="dev" />
   <project name="google_drive_api" remote="dev" />
   <project name="win_display_write_protect_status_desktop" remote="dev" />
