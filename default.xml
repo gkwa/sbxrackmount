@@ -4,6 +4,44 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
 
+  <project name="mdt_create_deployment_share" remote="dev" />
+  <project name="out-of-box-drivers" remote="dev" />
+  <project name="out-of-box-drivers" path="mdt_create_deployment_share/out-of-box-drivers" remote="dev" />
+
+  <project name="7z_practice" remote="gh" />
+  <project name="activemq-dotnet-compile" remote="gh" />
+  <project name="bourne-shell-practice" remote="gh" />
+  <project name="bup" remote="gh" />
+  <project name="bwoken" remote="gh" />
+  <project name="convert_ip_to_integer" remote="gh" />
+  <project name="cygwin-setup" remote="gh" />
+  <project name="emacs_batch_mode_practice" remote="gh" />
+  <project name="find_duplicate_files" remote="gh" />
+  <project name="homebrew" remote="gh" />
+  <project name="hugo" remote="gh" />
+  <project name="iniparser" remote="gh" />
+  <project name="linq-practice" remote="gh" />
+  <project name="make-practice" remote="gh" />
+  <project name="manifest" remote="gh" />
+  <project name="mdt_deployment" remote="gh" />
+  <project name="mediaplayer-win32-testing" remote="gh" />
+  <project name="move_projects_to_github" remote="gh" />
+  <project name="netbios-disable" remote="gh" />
+  <project name="nvspbind_network_card_config" remote="gh" />
+  <project name="powershell-practice" remote="gh" />
+  <project name="python-celery-practice" remote="gh" />
+  <project name="python-practice" remote="gh" />
+  <project name="read-sb-changelog" remote="gh" />
+  <project name="selenium-practice" remote="gh" />
+  <project name="sms_test_many_versions" remote="gh" />
+  <project name="starter" remote="gh" />
+  <project name="streambox_app_automation" remote="gh" />
+  <project name="virtualbox-automation" remote="gh" />
+  <project name="weblog" remote="gh" />
+  <project name="wedu-control" remote="gh" />
+  <project name="windows7_folder_properties" remote="gh" />
+  <project name="wix-practice" remote="gh" />
+
   <project name="7z_practice" remote="dev" />
   <project name="copy_osx_keychain" remote="dev" />
   <project name="amazon-boto-practice" remote="dev" />
