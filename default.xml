@@ -3,291 +3,289 @@
   <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" review="http://gerrit:8080" />
   <default remote="dev" revision="master" />
 
-  <project name="7z_practice" />
-  <project name="mdt_create_deployment_share" />
-  <project name="copy_osx_keychain" />
-  <project name="amazon-boto-practice" />
-  <project name="jetS3t" />
-  <project name="robocopy-practice" />
-  <project name="git_compile_cygwin" />
-  <project name="windows_filesystemwatcher" />
-  <project name="rsync_backup_laptop" />
-  <project name="subversion_windows_collabnet" />
-  <project name="ps_update_path_immediately" />
-  <project name="remove_byte_order_mark" />
-  <project name="windows-fix-paths" />
-  <project name="powershell-pin-taskbar-startmenu" />
-  <project name="book_source_activemq_in_action" />
-  <project name="chocolatey_installer" />
-  <project name="vagrant-chef-fedora" />
-  <project name="amazon-s3-practice" />
-  <project name="vagrant-practice" />
-  <project name="google_drive_api" />
-  <project name="win_display_write_protect_status_desktop" />
-  <project name="win_recycle_on_delete_setting" />
-  <project name="win_reboot_continuously" />
-  <project name="windows_turn_off_numlock" />
-  <project name="gtk-practice" />
-  <project name="visualize-makefile-deps" />
-  <project name="esls_watchdog" />
-  <project name="mariadb-win" />
-  <project name="flow_control_and_interrupt_moderation" />
-  <project name="lua-practice" />
-  <project name="uninstall_KB2533552" />
-  <project name="d3c" />
-  <project name="netem" />
-  <project name="apache-testing3-ssl" />
-  <project name="intel_prowin_drivers" />
-  <project name="win7_setup_install_setupcomplete" />
-  <project name="ws7e_deployment_tools" />
-  <project name="windows7_taskbar_small" />
-  <project name="add_icon_to_windows_desktop" />
-  <project name="vagrant-test" />
-  <project name="virtualbox-snapshotpng" />
-  <project name="org-mode" />
-  <project name="ifb-client-osx" />
-  <project name="selenium_grid_install_windows" />
-  <project name="curl_standalone_windows" />
-  <project name="emacs_test_org_mode_split_file" />
-  <project name="run_cpuz_silently" />
-  <project name="devcon_testing" />
-  <project name="window_driver_kit_tools" />
-  <project name="aja_card_detect" />
-  <project name="webloc_finagler" />
-  <project name="transcap" />
-  <project name="cx_freeze_python_setup" />
-  <project name="winini_reset_python" />
-  <project name="streamboxme_pro_manuals" />
-  <project name="streamboxme_pro_win" />
-  <project name="winini_reset_using_php" />
-  <project name="streambox_sbt3_9400_check_mode" />
-  <project name="non_sucking_service_manager_nssm" />
-  <project name="streambox_detect_encoder_resolution" />
-  <project name="decoders_test" />
-  <project name="cx_freeze_python_practice" />
-  <project name="readynas-rename" />
-  <project name="firefox_win" />
-  <project name="vcredist_installer" />
-  <project name="winini_act_port_85" />
-  <project name="amazon_aws_templates" />
-  <project name="python_practice" />
-  <project name="nagios_nsclient_installer" />
-  <project name="find_storage_drive" />
-  <project name="apache_install_ssl_cert" />
-  <project name="generate_random_files" />
-  <project name="mysql_win_installer" />
-  <project name="apache-testing2-ssl" />
-  <project name="apache-testing-ssl" />
-  <project name="apache-testing" />
-  <project name="compare_smphd_on_2_mac_mini" />
-  <project name="tmux-practice" />
-  <project name="php-practice" />
-  <project name="streambox_live_configuration" />
-  <project name="npackd_installer" />
-  <project name="update_conf" />
-  <project name="sls_decoder" />
-  <project name="git-practice-git-subtree-merge1" />
-  <project name="streambox_osx_app_installer_certs" />
-  <project name="ScaryBugsMac" />
-  <project name="streamboxme_pro_osx" />
-  <project name="stremabox-transport-cap" />
-  <project name="live_db_upgrade" />
-  <project name="encoder-osx-permissions" />
-  <project name="winpe" />
-  <project name="pkgbuild-practice" />
-  <project name="windows_flash_installer" />
-  <project name="merge_encoder_preset_plists" />
-  <project name="mediaplayer-readynas-rename" />
-  <project name="out-of-box-drivers" />
-  <project name="react_when_folder_changes_osx" />
-  <project name="windows-sim" />
-  <project name="update_win_ini_to_fullduplex" />
-  <project name="jinja2_practice" />
-  <project name="osx_encoder_presets" />
-  <project name="group_files_by_basename_and_sort_by_mtime" />
-  <project name="get_guid_for_search_wrapper" />
-  <project name="screen_scrape_hardware_id_from_activation_applet" />
-  <project name="virtualbox-control" />
-  <project name="live_db_backup" />
-  <project name="cleanup_windows_filesystem" />
-  <project name="ubuntu-kickstart" />
-  <project name="streambox_firewall_setup" />
-  <project name="es_backup_lics" />
-  <project name="filezilla_add_user" />
-  <project name="appcast" />
-  <project name="jinja2-practice" />
-  <project name="winini_reset" />
-  <project name="live_licese_backup" />
-  <project name="osx_sleepwatcher" />
-  <project name="streambox_winini_update" />
-  <project name="win_ed_webapi" />
-  <project name="osx_dropbox_crash_report" />
-  <project name="activation_server2_test_client" />
-  <project name="dpinst" />
-  <project name="avenir_updates" />
-  <project name="rename_encoders_decoders" />
-  <project name="emacs_build" />
-  <project name="activation_server_live_server_reactivation_investigation" />
-  <project name="m4-practice" />
-  <project name="ls_updates" />
-  <project name="update_minttyrc_according_to_resolution" />
-  <project name="win_display_resolution" />
-  <project name="java_and_maven_installer" />
-  <project name="maven_install_windows" />
-  <project name="java_install_on_windows" />
-  <project name="sb_update" />
-  <project name="streambox_lcd_on_bootup" />
-  <project name="restart_processes_from_within_make" />
-  <project name="cmd_convert_short_path_to_long" />
-  <project name="sfsvideo" />
-  <project name="sms-uninstall" />
-  <project name="usb_audio_xpe" />
-  <project name="largebits" />
-  <project name="add_reboot_icon_to_quicklaunch_bar" />
-  <project name="npackd-practice" />
-  <project name="microsoft_redistributables" />
-  <project name="get_guid_for_search" />
-  <project name="streambox_service_starter" />
-  <project name="stress_test_live" />
-  <project name="live_db_installer" />
-  <project name="netplwiz_automation" />
-  <project name="emacs-org-babel-tangle" />
-  <project name="ls_auto_activate" />
-  <project name="dummynet" />
-  <project name="git-check-projects" />
-  <project name="lstmptrash" />
-  <project name="qt_plus_qt_decoder_install_test" />
-  <project name="rms" />
-  <project name="map_googledocs_to_bz" />
-  <project name="gnuwin32" />
-  <project name="php-installer" />
-  <project name="makefile-practice" />
-  <project name="tiny_perl_installer" />
-  <project name="machine-check" />
-  <project name="smp" />
-  <project name="apache-console-app" />
-  <project name="ziptest" />
-  <project name="ds_withstorage" />
-  <project name="virtualbox-practice" />
-  <project name="git" />
-  <project name="9100-update" />
-  <project name="bug-maintenance" />
-  <project name="sleep_after_reboot" />
-  <project name="rsync-practice" />
-  <project name="aja-driver-install" />
-  <project name="scons-practice" />
-  <project name="nicready" />
-  <project name="mono-practice" />
-  <project name="production-find-ls" />
-  <project name="plistParsing" />
-  <project name="sfs-lite" />
-  <project name="test-trash" />
-  <project name="read-qt-tools" />
-  <project name="cmake-practice" />
-  <project name="quictime-automation" />
-  <project name="bginfo" />
-  <project name="qt-decoder-hd-win" />
-  <project name="qt-decoder-sd-win" />
-  <project name="xena-test-tools" />
-  <project name="xenserver-helper-scripts" />
-  <project name="liveencoder-osx" />
-  <project name="autoit-practice" />
-  <project name="xmlstarlet-practice" />
-  <project name="quicktime" />
-  <project name="colorbarsbitmaps" />
-  <project name="check2000" />
-  <project name="libguide-win" />
-  <project name="transcoder-win" />
-  <project name="encoder-portable-sd-win" />
-  <project name="encoder-portable-hd-win" />
-  <project name="web-upgrade-practice" />
-  <project name="sfc-osx" />
-  <project name="osx-webui" />
-  <project name="win7" />
-  <project name="nsis-baseline" />
-  <project name="abn" />
-  <project name="bs" />
-  <project name="bugzilla-setup" />
-  <project name="decoder-win" />
-  <project name="docbook-practice" />
-  <project name="droplet" />
-  <project name="ds" />
-  <project name="emacs" />
-  <project name="encoder-hd-osx" />
-  <project name="encoder-sd-osx" />
-  <project name="encoder-settings" />
-  <project name="ess" />
-  <project name="fcp-compressor-presets" />
-  <project name="ftpserver" />
-  <project name="ftt-win" />
-  <project name="gerrit-setup" />
-  <project name="ghost-image-check" />
-  <project name="ghost-sync" />
-  <project name="git-practice" />
-  <project name="honeypot" />
-  <project name="ifb-client-win" />
-  <project name="ifbserver" />
-  <project name="jlcskip" />
-  <project name="junction-test" />
-  <project name="keychain" />
-  <project name="libguide" />
-  <project name="libguide-hd-win" />
-  <project name="libguide-sd-win" />
-  <project name="linux" />
-  <project name="liveencoder-ntsc-osx" />
-  <project name="liveencoder-win" />
-  <project name="lstest" />
-  <project name="manifest" />
-  <project name="maven-practice" />
-  <project name="mediaplayer-hd-osx" />
-  <project name="mediaplayer-hd-win32" />
-  <project name="mediaplayer-sd-osx" />
-  <project name="mediaplayer-sd-win32" />
-  <project name="memorycheck" />
-  <project name="mp-hd-win32" />
-  <project name="nfs" />
-  <project name="nsis-practice" />
-  <project name="nsis-streambox" />
-  <project name="nsis-streambox2" />
-  <project name="osascript-practice" />
-  <project name="osx-packagemaker" />
-  <project name="perl-recdescent-practice" />
-  <project name="poweredge-bios" />
-  <project name="prod-ls" />
-  <project name="qt-decoder-hd-osx" />
-  <project name="qt-decoder-sd-osx" />
-  <project name="qt-encoder-act-hd-osx" />
-  <project name="qt-encoder-act-sd-osx" />
-  <project name="qt-encoder-hd-osx" />
-  <project name="qt-encoder-hd-win" />
-  <project name="qt-encoder-sd-osx" />
-  <project name="qt-encoder-sd-win" />
-  <project name="qt-practice" />
-  <project name="qtcodec-win-hd" />
-  <project name="qtdecoder-osx" />
-  <project name="raid-activation" />
-  <project name="rdp-connect" />
-  <project name="run-bat-before-login" />
-  <project name="sas" />
-  <project name="sb-ports" />
-  <project name="sbaudiocheck" />
-  <project name="sbtunnel" />
-  <project name="sbversioncheck" />
-  <project name="sfc-win" />
-  <project name="sfs" />
-  <project name="siwstats" />
-  <project name="sms" />
-  <project name="sqlite-practice" />
-  <project name="ssh-setup" />
-  <project name="sslcerts" />
-  <project name="subversion-bkp" />
-  <project name="subversion-setup" />
-  <project name="sysprep" />
-  <project name="tools" />
-  <project name="transcoder-osx" />
-  <project name="usb-bootable" />
-  <project name="videozilla" />
-  <project name="xenserver" />
-  <project name="xerox_email" />
-  <project name="xquery-practice" />
+  <project name="7z_practice" remote="dev" />
+  <project name="copy_osx_keychain" remote="dev" />
+  <project name="amazon-boto-practice" remote="dev" />
+  <project name="jetS3t" remote="dev" />
+  <project name="robocopy-practice" remote="dev" />
+  <project name="git_compile_cygwin" remote="dev" />
+  <project name="windows_filesystemwatcher" remote="dev" />
+  <project name="rsync_backup_laptop" remote="dev" />
+  <project name="subversion_windows_collabnet" remote="dev" />
+  <project name="ps_update_path_immediately" remote="dev" />
+  <project name="remove_byte_order_mark" remote="dev" />
+  <project name="windows-fix-paths" remote="dev" />
+  <project name="powershell-pin-taskbar-startmenu" remote="dev" />
+  <project name="book_source_activemq_in_action" remote="dev" />
+  <project name="chocolatey_installer" remote="dev" />
+  <project name="vagrant-chef-fedora" remote="dev" />
+  <project name="amazon-s3-practice" remote="dev" />
+  <project name="vagrant-practice" remote="dev" />
+  <project name="google_drive_api" remote="dev" />
+  <project name="win_display_write_protect_status_desktop" remote="dev" />
+  <project name="win_recycle_on_delete_setting" remote="dev" />
+  <project name="win_reboot_continuously" remote="dev" />
+  <project name="windows_turn_off_numlock" remote="dev" />
+  <project name="gtk-practice" remote="dev" />
+  <project name="visualize-makefile-deps" remote="dev" />
+  <project name="esls_watchdog" remote="dev" />
+  <project name="mariadb-win" remote="dev" />
+  <project name="flow_control_and_interrupt_moderation" remote="dev" />
+  <project name="lua-practice" remote="dev" />
+  <project name="uninstall_KB2533552" remote="dev" />
+  <project name="d3c" remote="dev" />
+  <project name="netem" remote="dev" />
+  <project name="apache-testing3-ssl" remote="dev" />
+  <project name="intel_prowin_drivers" remote="dev" />
+  <project name="win7_setup_install_setupcomplete" remote="dev" />
+  <project name="ws7e_deployment_tools" remote="dev" />
+  <project name="windows7_taskbar_small" remote="dev" />
+  <project name="add_icon_to_windows_desktop" remote="dev" />
+  <project name="vagrant-test" remote="dev" />
+  <project name="virtualbox-snapshotpng" remote="dev" />
+  <project name="org-mode" remote="dev" />
+  <project name="ifb-client-osx" remote="dev" />
+  <project name="selenium_grid_install_windows" remote="dev" />
+  <project name="curl_standalone_windows" remote="dev" />
+  <project name="emacs_test_org_mode_split_file" remote="dev" />
+  <project name="run_cpuz_silently" remote="dev" />
+  <project name="devcon_testing" remote="dev" />
+  <project name="window_driver_kit_tools" remote="dev" />
+  <project name="aja_card_detect" remote="dev" />
+  <project name="webloc_finagler" remote="dev" />
+  <project name="transcap" remote="dev" />
+  <project name="cx_freeze_python_setup" remote="dev" />
+  <project name="winini_reset_python" remote="dev" />
+  <project name="streamboxme_pro_manuals" remote="dev" />
+  <project name="streamboxme_pro_win" remote="dev" />
+  <project name="winini_reset_using_php" remote="dev" />
+  <project name="streambox_sbt3_9400_check_mode" remote="dev" />
+  <project name="non_sucking_service_manager_nssm" remote="dev" />
+  <project name="streambox_detect_encoder_resolution" remote="dev" />
+  <project name="decoders_test" remote="dev" />
+  <project name="cx_freeze_python_practice" remote="dev" />
+  <project name="readynas-rename" remote="dev" />
+  <project name="firefox_win" remote="dev" />
+  <project name="vcredist_installer" remote="dev" />
+  <project name="winini_act_port_85" remote="dev" />
+  <project name="amazon_aws_templates" remote="dev" />
+  <project name="python_practice" remote="dev" />
+  <project name="nagios_nsclient_installer" remote="dev" />
+  <project name="find_storage_drive" remote="dev" />
+  <project name="apache_install_ssl_cert" remote="dev" />
+  <project name="generate_random_files" remote="dev" />
+  <project name="mysql_win_installer" remote="dev" />
+  <project name="apache-testing2-ssl" remote="dev" />
+  <project name="apache-testing-ssl" remote="dev" />
+  <project name="apache-testing" remote="dev" />
+  <project name="compare_smphd_on_2_mac_mini" remote="dev" />
+  <project name="tmux-practice" remote="dev" />
+  <project name="php-practice" remote="dev" />
+  <project name="streambox_live_configuration" remote="dev" />
+  <project name="npackd_installer" remote="dev" />
+  <project name="update_conf" remote="dev" />
+  <project name="sls_decoder" remote="dev" />
+  <project name="git-practice-git-subtree-merge1" remote="dev" />
+  <project name="streambox_osx_app_installer_certs" remote="dev" />
+  <project name="ScaryBugsMac" remote="dev" />
+  <project name="streamboxme_pro_osx" remote="dev" />
+  <project name="stremabox-transport-cap" remote="dev" />
+  <project name="live_db_upgrade" remote="dev" />
+  <project name="encoder-osx-permissions" remote="dev" />
+  <project name="winpe" remote="dev" />
+  <project name="pkgbuild-practice" remote="dev" />
+  <project name="windows_flash_installer" remote="dev" />
+  <project name="merge_encoder_preset_plists" remote="dev" />
+  <project name="mediaplayer-readynas-rename" remote="dev" />
+  <project name="react_when_folder_changes_osx" remote="dev" />
+  <project name="windows-sim" remote="dev" />
+  <project name="update_win_ini_to_fullduplex" remote="dev" />
+  <project name="jinja2_practice" remote="dev" />
+  <project name="osx_encoder_presets" remote="dev" />
+  <project name="group_files_by_basename_and_sort_by_mtime" remote="dev" />
+  <project name="get_guid_for_search_wrapper" remote="dev" />
+  <project name="screen_scrape_hardware_id_from_activation_applet" remote="dev" />
+  <project name="virtualbox-control" remote="dev" />
+  <project name="live_db_backup" remote="dev" />
+  <project name="cleanup_windows_filesystem" remote="dev" />
+  <project name="ubuntu-kickstart" remote="dev" />
+  <project name="streambox_firewall_setup" remote="dev" />
+  <project name="es_backup_lics" remote="dev" />
+  <project name="filezilla_add_user" remote="dev" />
+  <project name="appcast" remote="dev" />
+  <project name="jinja2-practice" remote="dev" />
+  <project name="winini_reset" remote="dev" />
+  <project name="live_licese_backup" remote="dev" />
+  <project name="osx_sleepwatcher" remote="dev" />
+  <project name="streambox_winini_update" remote="dev" />
+  <project name="win_ed_webapi" remote="dev" />
+  <project name="osx_dropbox_crash_report" remote="dev" />
+  <project name="activation_server2_test_client" remote="dev" />
+  <project name="dpinst" remote="dev" />
+  <project name="avenir_updates" remote="dev" />
+  <project name="rename_encoders_decoders" remote="dev" />
+  <project name="emacs_build" remote="dev" />
+  <project name="activation_server_live_server_reactivation_investigation" remote="dev" />
+  <project name="m4-practice" remote="dev" />
+  <project name="ls_updates" remote="dev" />
+  <project name="update_minttyrc_according_to_resolution" remote="dev" />
+  <project name="win_display_resolution" remote="dev" />
+  <project name="java_and_maven_installer" remote="dev" />
+  <project name="maven_install_windows" remote="dev" />
+  <project name="java_install_on_windows" remote="dev" />
+  <project name="sb_update" remote="dev" />
+  <project name="streambox_lcd_on_bootup" remote="dev" />
+  <project name="restart_processes_from_within_make" remote="dev" />
+  <project name="cmd_convert_short_path_to_long" remote="dev" />
+  <project name="sfsvideo" remote="dev" />
+  <project name="sms-uninstall" remote="dev" />
+  <project name="usb_audio_xpe" remote="dev" />
+  <project name="largebits" remote="dev" />
+  <project name="add_reboot_icon_to_quicklaunch_bar" remote="dev" />
+  <project name="npackd-practice" remote="dev" />
+  <project name="microsoft_redistributables" remote="dev" />
+  <project name="get_guid_for_search" remote="dev" />
+  <project name="streambox_service_starter" remote="dev" />
+  <project name="stress_test_live" remote="dev" />
+  <project name="live_db_installer" remote="dev" />
+  <project name="netplwiz_automation" remote="dev" />
+  <project name="emacs-org-babel-tangle" remote="dev" />
+  <project name="ls_auto_activate" remote="dev" />
+  <project name="dummynet" remote="dev" />
+  <project name="git-check-projects" remote="dev" />
+  <project name="lstmptrash" remote="dev" />
+  <project name="qt_plus_qt_decoder_install_test" remote="dev" />
+  <project name="rms" remote="dev" />
+  <project name="map_googledocs_to_bz" remote="dev" />
+  <project name="gnuwin32" remote="dev" />
+  <project name="php-installer" remote="dev" />
+  <project name="makefile-practice" remote="dev" />
+  <project name="tiny_perl_installer" remote="dev" />
+  <project name="machine-check" remote="dev" />
+  <project name="smp" remote="dev" />
+  <project name="apache-console-app" remote="dev" />
+  <project name="ziptest" remote="dev" />
+  <project name="ds_withstorage" remote="dev" />
+  <project name="virtualbox-practice" remote="dev" />
+  <project name="git" remote="dev" />
+  <project name="9100-update" remote="dev" />
+  <project name="bug-maintenance" remote="dev" />
+  <project name="sleep_after_reboot" remote="dev" />
+  <project name="rsync-practice" remote="dev" />
+  <project name="aja-driver-install" remote="dev" />
+  <project name="scons-practice" remote="dev" />
+  <project name="nicready" remote="dev" />
+  <project name="mono-practice" remote="dev" />
+  <project name="production-find-ls" remote="dev" />
+  <project name="plistParsing" remote="dev" />
+  <project name="sfs-lite" remote="dev" />
+  <project name="test-trash" remote="dev" />
+  <project name="read-qt-tools" remote="dev" />
+  <project name="cmake-practice" remote="dev" />
+  <project name="quictime-automation" remote="dev" />
+  <project name="bginfo" remote="dev" />
+  <project name="qt-decoder-hd-win" remote="dev" />
+  <project name="qt-decoder-sd-win" remote="dev" />
+  <project name="xena-test-tools" remote="dev" />
+  <project name="xenserver-helper-scripts" remote="dev" />
+  <project name="liveencoder-osx" remote="dev" />
+  <project name="autoit-practice" remote="dev" />
+  <project name="xmlstarlet-practice" remote="dev" />
+  <project name="quicktime" remote="dev" />
+  <project name="colorbarsbitmaps" remote="dev" />
+  <project name="check2000" remote="dev" />
+  <project name="libguide-win" remote="dev" />
+  <project name="transcoder-win" remote="dev" />
+  <project name="encoder-portable-sd-win" remote="dev" />
+  <project name="encoder-portable-hd-win" remote="dev" />
+  <project name="web-upgrade-practice" remote="dev" />
+  <project name="sfc-osx" remote="dev" />
+  <project name="osx-webui" remote="dev" />
+  <project name="win7" remote="dev" />
+  <project name="nsis-baseline" remote="dev" />
+  <project name="abn" remote="dev" />
+  <project name="bs" remote="dev" />
+  <project name="bugzilla-setup" remote="dev" />
+  <project name="decoder-win" remote="dev" />
+  <project name="docbook-practice" remote="dev" />
+  <project name="droplet" remote="dev" />
+  <project name="ds" remote="dev" />
+  <project name="emacs" remote="dev" />
+  <project name="encoder-hd-osx" remote="dev" />
+  <project name="encoder-sd-osx" remote="dev" />
+  <project name="encoder-settings" remote="dev" />
+  <project name="ess" remote="dev" />
+  <project name="fcp-compressor-presets" remote="dev" />
+  <project name="ftpserver" remote="dev" />
+  <project name="ftt-win" remote="dev" />
+  <project name="gerrit-setup" remote="dev" />
+  <project name="ghost-image-check" remote="dev" />
+  <project name="ghost-sync" remote="dev" />
+  <project name="git-practice" remote="dev" />
+  <project name="honeypot" remote="dev" />
+  <project name="ifb-client-win" remote="dev" />
+  <project name="ifbserver" remote="dev" />
+  <project name="jlcskip" remote="dev" />
+  <project name="junction-test" remote="dev" />
+  <project name="keychain" remote="dev" />
+  <project name="libguide" remote="dev" />
+  <project name="libguide-hd-win" remote="dev" />
+  <project name="libguide-sd-win" remote="dev" />
+  <project name="linux" remote="dev" />
+  <project name="liveencoder-ntsc-osx" remote="dev" />
+  <project name="liveencoder-win" remote="dev" />
+  <project name="lstest" remote="dev" />
+  <project name="manifest" remote="dev" />
+  <project name="maven-practice" remote="dev" />
+  <project name="mediaplayer-hd-osx" remote="dev" />
+  <project name="mediaplayer-hd-win32" remote="dev" />
+  <project name="mediaplayer-sd-osx" remote="dev" />
+  <project name="mediaplayer-sd-win32" remote="dev" />
+  <project name="memorycheck" remote="dev" />
+  <project name="mp-hd-win32" remote="dev" />
+  <project name="nfs" remote="dev" />
+  <project name="nsis-practice" remote="dev" />
+  <project name="nsis-streambox" remote="dev" />
+  <project name="nsis-streambox2" remote="dev" />
+  <project name="osascript-practice" remote="dev" />
+  <project name="osx-packagemaker" remote="dev" />
+  <project name="perl-recdescent-practice" remote="dev" />
+  <project name="poweredge-bios" remote="dev" />
+  <project name="prod-ls" remote="dev" />
+  <project name="qt-decoder-hd-osx" remote="dev" />
+  <project name="qt-decoder-sd-osx" remote="dev" />
+  <project name="qt-encoder-act-hd-osx" remote="dev" />
+  <project name="qt-encoder-act-sd-osx" remote="dev" />
+  <project name="qt-encoder-hd-osx" remote="dev" />
+  <project name="qt-encoder-hd-win" remote="dev" />
+  <project name="qt-encoder-sd-osx" remote="dev" />
+  <project name="qt-encoder-sd-win" remote="dev" />
+  <project name="qt-practice" remote="dev" />
+  <project name="qtcodec-win-hd" remote="dev" />
+  <project name="qtdecoder-osx" remote="dev" />
+  <project name="raid-activation" remote="dev" />
+  <project name="rdp-connect" remote="dev" />
+  <project name="run-bat-before-login" remote="dev" />
+  <project name="sas" remote="dev" />
+  <project name="sb-ports" remote="dev" />
+  <project name="sbaudiocheck" remote="dev" />
+  <project name="sbtunnel" remote="dev" />
+  <project name="sbversioncheck" remote="dev" />
+  <project name="sfc-win" remote="dev" />
+  <project name="sfs" remote="dev" />
+  <project name="siwstats" remote="dev" />
+  <project name="sms" remote="dev" />
+  <project name="sqlite-practice" remote="dev" />
+  <project name="ssh-setup" remote="dev" />
+  <project name="sslcerts" remote="dev" />
+  <project name="subversion-bkp" remote="dev" />
+  <project name="subversion-setup" remote="dev" />
+  <project name="sysprep" remote="dev" />
+  <project name="tools" remote="dev" />
+  <project name="transcoder-osx" remote="dev" />
+  <project name="usb-bootable" remote="dev" />
+  <project name="videozilla" remote="dev" />
+  <project name="xenserver" remote="dev" />
+  <project name="xerox_email" remote="dev" />
+  <project name="xquery-practice" remote="dev" />
 </manifest>
