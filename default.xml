@@ -42,7 +42,6 @@
   <project name="windows7_folder_properties" remote="gh" />
   <project name="wix-practice" remote="gh" />
 
-  <project name="7z_practice" remote="dev" />
   <project name="copy_osx_keychain" remote="dev" />
   <project name="amazon-boto-practice" remote="dev" />
   <project name="jetS3t" remote="dev" />
