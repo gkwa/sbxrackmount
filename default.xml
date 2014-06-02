@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
-  <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" review="http://gerrit:8080" />
+  <remote fetch="ssh://boxstream@development.streambox.com:5979/var/www/html/proj" name="dev" />
   <default remote="dev" revision="master" />
 
   <project name="7z_practice" remote="dev" />
