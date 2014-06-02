@@ -57,7 +57,6 @@
   <project name="chocolatey_installer" remote="dev" />
   <project name="vagrant-chef-fedora" remote="dev" />
   <project name="amazon-s3-practice" remote="dev" />
-  <project name="vagrant-practice" remote="dev" />
   <project name="google_drive_api" remote="dev" />
   <project name="win_display_write_protect_status_desktop" remote="dev" />
   <project name="win_recycle_on_delete_setting" remote="dev" />
