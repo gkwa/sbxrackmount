@@ -8,6 +8,7 @@
   <project name="out-of-box-drivers" remote="dev" />
   <project name="out-of-box-drivers" path="mdt_create_deployment_share/out-of-box-drivers" remote="dev" />
 
+  <project name="manifest" remote="gh" />
   <project name="7z_practice" remote="gh" />
   <project name="activemq-dotnet-compile" remote="gh" />
   <project name="bourne-shell-practice" remote="gh" />
@@ -271,7 +272,6 @@
   <project name="liveencoder-ntsc-osx" remote="dev" />
   <project name="liveencoder-win" remote="dev" />
   <project name="lstest" remote="dev" />
-  <project name="manifest" remote="dev" />
   <project name="maven-practice" remote="dev" />
   <project name="mediaplayer-hd-osx" remote="dev" />
   <project name="mediaplayer-hd-win32" remote="dev" />
