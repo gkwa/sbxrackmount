@@ -22,7 +22,6 @@
   <project name="iniparser" remote="gh" />
   <project name="linq-practice" remote="gh" />
   <project name="make-practice" remote="gh" />
-  <project name="manifest" remote="gh" />
   <project name="mdt_deployment" remote="gh" />
   <project name="mediaplayer-win32-testing" remote="gh" />
   <project name="move_projects_to_github" remote="gh" />
