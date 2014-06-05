@@ -15,6 +15,7 @@
   <project name="activemq-dotnet-compile" remote="gh" />
   <project name="bourne-shell-practice" remote="gh" />
   <project name="bup" remote="gh" />
+  <project name="bup-practice" remote="gh" />
   <project name="bwoken" remote="gh" />
   <project name="convert_ip_to_integer" remote="gh" />
   <project name="cygwin-setup" remote="gh" />
