@@ -8,6 +8,7 @@
   <project name="out-of-box-drivers" remote="dev" />
   <project name="out-of-box-drivers" path="mdt_create_deployment_share/out-of-box-drivers" remote="dev" />
 
+  <project name="bfg-repo-cleaner-practice" remote="gh" />
   <project name="nsis-streambox3" remote="gh" />
   <project name="debug-winpe-virtualbox" remote="gh" />
   <project name="troubleshoot-ibw-boot-disk-problem" remote="gh" />
