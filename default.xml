@@ -7,6 +7,7 @@
   <project name="mdt_create_deployment_share" remote="dev" />
   <project name="out-of-box-drivers" remote="dev" />
 
+  <project name="chef-practice" remote="gh" />
   <project name="eslstest" remote="gh" />
   <project name="streambox-thumbnail-creation-time" remote="gh" />
   <project name="powershell-prompt-writeprotect" remote="gh" />
