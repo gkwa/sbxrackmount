@@ -7,6 +7,7 @@
   <project name="mdt_create_deployment_share" remote="dev" />
   <project name="out-of-box-drivers" remote="dev" />
 
+  <project name="sbx-transcoder-ps1-wrapper" remote="gh" />
   <project name="graphviz-practice" remote="gh" />
   <project name="docker-nagios" remote="gh" />
   <project name="capistrano-practice" remote="gh" />
