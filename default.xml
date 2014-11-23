@@ -6,6 +6,7 @@
 
   <project name="mdt_create_deployment_share" remote="dev" />
 
+  <project name="docker-rsyslog" remote="gh" />
   <project name="sed-practice" remote="gh" />
   <project name="our-boxen" remote="gh" />
   <project name="livemaint" remote="gh" />
