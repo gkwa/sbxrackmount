@@ -6,6 +6,7 @@
 
   <project name="mdt_create_deployment_share" remote="dev" />
 
+  <project name="docker-logstash" remote="gh" />
   <project name="ubuntu_taylor" remote="gh" />
   <project name="nxlogconfig" remote="gh" />
   <project name="docker-rsyslog" remote="gh" />
