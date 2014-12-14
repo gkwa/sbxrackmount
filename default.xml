@@ -6,6 +6,7 @@
 
   <project name="mdt_create_deployment_share" remote="dev" />
 
+  <project name="docker-puppetmaster" remote="gh" />
   <project name="docker-gitolite" remote="gh" />
   <project name="redis" remote="gh" />
   <project name="docker-logstash" remote="gh" />
