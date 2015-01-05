@@ -5,7 +5,6 @@
   <default revision="master" />
 
   <project name="docker-freeipa" remote="gh" />
-  <project name="Create-a-Microsoft-Remote-Desktop-8-Connection" remote="gh" />
   <project name="docker-foreman" remote="gh" />
   <project name="puppet-practice" remote="gh" />
   <project name="docker-puppetmaster" remote="gh" />
