@@ -4,6 +4,7 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
 
+  <project name="osx-rdp-client" remote="gh" />
   <project name="docker-freeipa" remote="gh" />
   <project name="docker-foreman" remote="gh" />
   <project name="puppet-practice" remote="gh" />
