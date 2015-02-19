@@ -4,6 +4,7 @@
   <remote fetch="https://github.com/TaylorMonacelli" name="gh" />
   <default revision="master" />
 
+  <project name="rackmount_webui" remote="dev" />
   <project name="make-avenir-usb" remote="gh" />
   <project name="sbx-encoder-presets" remote="gh" />
   <project name="osx-rdp-client" remote="gh" />
