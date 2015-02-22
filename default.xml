@@ -88,7 +88,6 @@
   <project name="windows7_folder_properties" remote="gh" />
   <project name="wix-practice" remote="gh" />
 
-  <project name="avenir_test_tools" remote="dev" />
   <project name="mdt_create_deployment_share" remote="dev" />
   <project name="copy_osx_keychains" remote="dev" />
   <project name="amazon-boto-practice" remote="dev" />
